@@ -1,0 +1,2334 @@
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 676
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  696; p-value = 0.895046
+SUCCESS		(x = -8) Total visits =  711; p-value = 0.805858
+SUCCESS		(x = -7) Total visits =  765; p-value = 0.502016
+SUCCESS		(x = -6) Total visits =  750; p-value = 0.543982
+SUCCESS		(x = -5) Total visits =  776; p-value = 0.364646
+SUCCESS		(x = -4) Total visits =  790; p-value = 0.241262
+SUCCESS		(x = -3) Total visits =  751; p-value = 0.361666
+SUCCESS		(x = -2) Total visits =  747; p-value = 0.264922
+SUCCESS		(x = -1) Total visits =  729; p-value = 0.149469
+SUCCESS		(x =  1) Total visits =  624; p-value = 0.157299
+SUCCESS		(x =  2) Total visits =  629; p-value = 0.460522
+SUCCESS		(x =  3) Total visits =  608; p-value = 0.408205
+SUCCESS		(x =  4) Total visits =  583; p-value = 0.339086
+SUCCESS		(x =  5) Total visits =  599; p-value = 0.485151
+SUCCESS		(x =  6) Total visits =  597; p-value = 0.517113
+SUCCESS		(x =  7) Total visits =  593; p-value = 0.531274
+SUCCESS		(x =  8) Total visits =  604; p-value = 0.613144
+SUCCESS		(x =  9) Total visits =  594; p-value = 0.588590
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 4173
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 4327; p-value = 0.682655
+SUCCESS		(x = -8) Total visits = 4174; p-value = 0.997745
+SUCCESS		(x = -7) Total visits = 4043; p-value = 0.693088
+SUCCESS		(x = -6) Total visits = 4068; p-value = 0.728937
+SUCCESS		(x = -5) Total visits = 4084; p-value = 0.745381
+SUCCESS		(x = -4) Total visits = 4052; p-value = 0.616648
+SUCCESS		(x = -3) Total visits = 4007; p-value = 0.416440
+SUCCESS		(x = -2) Total visits = 3928; p-value = 0.121541
+FAILURE		(x = -1) Total visits = 3927; p-value = 0.007087
+SUCCESS		(x =  1) Total visits = 4353; p-value = 0.048804
+SUCCESS		(x =  2) Total visits = 4405; p-value = 0.142598
+SUCCESS		(x =  3) Total visits = 4446; p-value = 0.181417
+SUCCESS		(x =  4) Total visits = 4502; p-value = 0.173465
+SUCCESS		(x =  5) Total visits = 4479; p-value = 0.264206
+SUCCESS		(x =  6) Total visits = 4428; p-value = 0.400013
+SUCCESS		(x =  7) Total visits = 4556; p-value = 0.244929
+SUCCESS		(x =  8) Total visits = 4565; p-value = 0.267904
+SUCCESS		(x =  9) Total visits = 4457; p-value = 0.450867
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2132
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2431; p-value = 0.266762
+SUCCESS		(x = -8) Total visits = 2323; p-value = 0.450111
+SUCCESS		(x = -7) Total visits = 2170; p-value = 0.871778
+SUCCESS		(x = -6) Total visits = 2189; p-value = 0.792404
+SUCCESS		(x = -5) Total visits = 2227; p-value = 0.627714
+SUCCESS		(x = -4) Total visits = 2226; p-value = 0.586380
+SUCCESS		(x = -3) Total visits = 2205; p-value = 0.617108
+SUCCESS		(x = -2) Total visits = 2133; p-value = 0.992946
+SUCCESS		(x = -1) Total visits = 2128; p-value = 0.951155
+SUCCESS		(x =  1) Total visits = 2084; p-value = 0.462293
+SUCCESS		(x =  2) Total visits = 2021; p-value = 0.326387
+SUCCESS		(x =  3) Total visits = 2005; p-value = 0.384420
+SUCCESS		(x =  4) Total visits = 1961; p-value = 0.322282
+SUCCESS		(x =  5) Total visits = 1882; p-value = 0.201894
+SUCCESS		(x =  6) Total visits = 1863; p-value = 0.214209
+SUCCESS		(x =  7) Total visits = 1831; p-value = 0.201088
+SUCCESS		(x =  8) Total visits = 1793; p-value = 0.180104
+SUCCESS		(x =  9) Total visits = 1763; p-value = 0.170517
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 3027
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2897; p-value = 0.685311
+SUCCESS		(x = -8) Total visits = 2859; p-value = 0.577188
+SUCCESS		(x = -7) Total visits = 2917; p-value = 0.694982
+SUCCESS		(x = -6) Total visits = 2918; p-value = 0.672744
+SUCCESS		(x = -5) Total visits = 2928; p-value = 0.671475
+SUCCESS		(x = -4) Total visits = 2952; p-value = 0.715614
+SUCCESS		(x = -3) Total visits = 2942; p-value = 0.625157
+SUCCESS		(x = -2) Total visits = 2968; p-value = 0.661535
+SUCCESS		(x = -1) Total visits = 3009; p-value = 0.817050
+SUCCESS		(x =  1) Total visits = 3035; p-value = 0.918107
+SUCCESS		(x =  2) Total visits = 3008; p-value = 0.887882
+SUCCESS		(x =  3) Total visits = 2984; p-value = 0.804791
+SUCCESS		(x =  4) Total visits = 3078; p-value = 0.804334
+SUCCESS		(x =  5) Total visits = 3206; p-value = 0.443171
+SUCCESS		(x =  6) Total visits = 3268; p-value = 0.350356
+SUCCESS		(x =  7) Total visits = 3247; p-value = 0.432920
+SUCCESS		(x =  8) Total visits = 3214; p-value = 0.534898
+SUCCESS		(x =  9) Total visits = 3267; p-value = 0.454394
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1263
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  968; p-value = 0.154569
+SUCCESS		(x = -8) Total visits =  979; p-value = 0.144564
+SUCCESS		(x = -7) Total visits = 1027; p-value = 0.192801
+SUCCESS		(x = -6) Total visits = 1052; p-value = 0.205580
+SUCCESS		(x = -5) Total visits = 1023; p-value = 0.111442
+SUCCESS		(x = -4) Total visits = 1004; p-value = 0.051444
+SUCCESS		(x = -3) Total visits = 1033; p-value = 0.040701
+SUCCESS		(x = -2) Total visits = 1076; p-value = 0.031702
+SUCCESS		(x = -1) Total visits = 1159; p-value = 0.038521
+SUCCESS		(x =  1) Total visits = 1329; p-value = 0.189119
+SUCCESS		(x =  2) Total visits = 1314; p-value = 0.557970
+SUCCESS		(x =  3) Total visits = 1322; p-value = 0.599591
+SUCCESS		(x =  4) Total visits = 1286; p-value = 0.862678
+SUCCESS		(x =  5) Total visits = 1220; p-value = 0.775500
+SUCCESS		(x =  6) Total visits = 1161; p-value = 0.540598
+SUCCESS		(x =  7) Total visits = 1047; p-value = 0.233273
+SUCCESS		(x =  8) Total visits = 1008; p-value = 0.190189
+SUCCESS		(x =  9) Total visits =  996; p-value = 0.197587
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 202
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1078
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1330; p-value = 0.188077
+SUCCESS		(x = -8) Total visits = 1311; p-value = 0.195098
+SUCCESS		(x = -7) Total visits = 1298; p-value = 0.188814
+SUCCESS		(x = -6) Total visits = 1271; p-value = 0.210116
+SUCCESS		(x = -5) Total visits = 1233; p-value = 0.265829
+SUCCESS		(x = -4) Total visits = 1155; p-value = 0.530801
+SUCCESS		(x = -3) Total visits = 1086; p-value = 0.938583
+SUCCESS		(x = -2) Total visits = 1093; p-value = 0.852043
+SUCCESS		(x = -1) Total visits = 1103; p-value = 0.590292
+SUCCESS		(x =  1) Total visits = 1102; p-value = 0.605242
+SUCCESS		(x =  2) Total visits = 1124; p-value = 0.567343
+SUCCESS		(x =  3) Total visits = 1106; p-value = 0.787406
+SUCCESS		(x =  4) Total visits = 1125; p-value = 0.702030
+SUCCESS		(x =  5) Total visits = 1211; p-value = 0.339686
+SUCCESS		(x =  6) Total visits = 1240; p-value = 0.292823
+SUCCESS		(x =  7) Total visits = 1192; p-value = 0.495910
+SUCCESS		(x =  8) Total visits = 1129; p-value = 0.776720
+SUCCESS		(x =  9) Total visits = 1128; p-value = 0.793962
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2050
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2616; p-value = 0.032043
+SUCCESS		(x = -8) Total visits = 2591; p-value = 0.029145
+SUCCESS		(x = -7) Total visits = 2608; p-value = 0.015650
+SUCCESS		(x = -6) Total visits = 2525; p-value = 0.025307
+SUCCESS		(x = -5) Total visits = 2402; p-value = 0.066886
+SUCCESS		(x = -4) Total visits = 2430; p-value = 0.024892
+FAILURE		(x = -3) Total visits = 2500; p-value = 0.001673
+FAILURE		(x = -2) Total visits = 2392; p-value = 0.002044
+SUCCESS		(x = -1) Total visits = 2128; p-value = 0.223165
+SUCCESS		(x =  1) Total visits = 2079; p-value = 0.650618
+SUCCESS		(x =  2) Total visits = 2076; p-value = 0.814648
+SUCCESS		(x =  3) Total visits = 2121; p-value = 0.619975
+SUCCESS		(x =  4) Total visits = 2123; p-value = 0.666537
+SUCCESS		(x =  5) Total visits = 2187; p-value = 0.475726
+SUCCESS		(x =  6) Total visits = 2284; p-value = 0.270521
+SUCCESS		(x =  7) Total visits = 2242; p-value = 0.405610
+SUCCESS		(x =  8) Total visits = 2277; p-value = 0.360007
+SUCCESS		(x =  9) Total visits = 2283; p-value = 0.377479
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 762
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  719; p-value = 0.789355
+SUCCESS		(x = -8) Total visits =  697; p-value = 0.667263
+SUCCESS		(x = -7) Total visits =  767; p-value = 0.971663
+SUCCESS		(x = -6) Total visits =  816; p-value = 0.676630
+SUCCESS		(x = -5) Total visits =  798; p-value = 0.758547
+SUCCESS		(x = -4) Total visits =  793; p-value = 0.764072
+SUCCESS		(x = -3) Total visits =  784; p-value = 0.801021
+SUCCESS		(x = -2) Total visits =  760; p-value = 0.976403
+SUCCESS		(x = -1) Total visits =  755; p-value = 0.857694
+SUCCESS		(x =  1) Total visits =  727; p-value = 0.369958
+SUCCESS		(x =  2) Total visits =  675; p-value = 0.198210
+SUCCESS		(x =  3) Total visits =  667; p-value = 0.276465
+SUCCESS		(x =  4) Total visits =  678; p-value = 0.416060
+SUCCESS		(x =  5) Total visits =  663; p-value = 0.397932
+SUCCESS		(x =  6) Total visits =  690; p-value = 0.578151
+SUCCESS		(x =  7) Total visits =  715; p-value = 0.738445
+SUCCESS		(x =  8) Total visits =  698; p-value = 0.672081
+SUCCESS		(x =  9) Total visits =  752; p-value = 0.950461
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 42
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1343
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1564; p-value = 0.301031
+SUCCESS		(x = -8) Total visits = 1475; p-value = 0.510782
+SUCCESS		(x = -7) Total visits = 1447; p-value = 0.577831
+SUCCESS		(x = -6) Total visits = 1461; p-value = 0.492406
+SUCCESS		(x = -5) Total visits = 1424; p-value = 0.602389
+SUCCESS		(x = -4) Total visits = 1376; p-value = 0.809815
+SUCCESS		(x = -3) Total visits = 1305; p-value = 0.742985
+SUCCESS		(x = -2) Total visits = 1330; p-value = 0.884853
+SUCCESS		(x = -1) Total visits = 1374; p-value = 0.549741
+SUCCESS		(x =  1) Total visits = 1326; p-value = 0.742899
+SUCCESS		(x =  2) Total visits = 1307; p-value = 0.688390
+SUCCESS		(x =  3) Total visits = 1270; p-value = 0.528747
+SUCCESS		(x =  4) Total visits = 1219; p-value = 0.365828
+SUCCESS		(x =  5) Total visits = 1147; p-value = 0.207448
+SUCCESS		(x =  6) Total visits = 1110; p-value = 0.175251
+SUCCESS		(x =  7) Total visits = 1175; p-value = 0.368625
+SUCCESS		(x =  8) Total visits = 1273; p-value = 0.727286
+SUCCESS		(x =  9) Total visits = 1300; p-value = 0.840519
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 66
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2838
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2841; p-value = 0.992294
+SUCCESS		(x = -8) Total visits = 2784; p-value = 0.853177
+SUCCESS		(x = -7) Total visits = 2751; p-value = 0.748758
+SUCCESS		(x = -6) Total visits = 2754; p-value = 0.736741
+SUCCESS		(x = -5) Total visits = 2692; p-value = 0.518301
+SUCCESS		(x = -4) Total visits = 2586; p-value = 0.206143
+SUCCESS		(x = -3) Total visits = 2648; p-value = 0.259388
+SUCCESS		(x = -2) Total visits = 2725; p-value = 0.386513
+SUCCESS		(x = -1) Total visits = 2757; p-value = 0.282313
+SUCCESS		(x =  1) Total visits = 2879; p-value = 0.586300
+SUCCESS		(x =  2) Total visits = 2893; p-value = 0.673402
+SUCCESS		(x =  3) Total visits = 2897; p-value = 0.726171
+SUCCESS		(x =  4) Total visits = 2863; p-value = 0.900190
+SUCCESS		(x =  5) Total visits = 2901; p-value = 0.780445
+SUCCESS		(x =  6) Total visits = 2979; p-value = 0.572557
+SUCCESS		(x =  7) Total visits = 3019; p-value = 0.505204
+SUCCESS		(x =  8) Total visits = 3114; p-value = 0.344203
+SUCCESS		(x =  9) Total visits = 3172; p-value = 0.282272
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2707
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2672; p-value = 0.908154
+SUCCESS		(x = -8) Total visits = 2822; p-value = 0.686547
+SUCCESS		(x = -7) Total visits = 2910; p-value = 0.444163
+SUCCESS		(x = -6) Total visits = 2896; p-value = 0.438651
+SUCCESS		(x = -5) Total visits = 2794; p-value = 0.693485
+SUCCESS		(x = -4) Total visits = 2704; p-value = 0.987705
+SUCCESS		(x = -3) Total visits = 2621; p-value = 0.601182
+SUCCESS		(x = -2) Total visits = 2604; p-value = 0.418977
+SUCCESS		(x = -1) Total visits = 2663; p-value = 0.549847
+SUCCESS		(x =  1) Total visits = 2759; p-value = 0.479744
+SUCCESS		(x =  2) Total visits = 2770; p-value = 0.621070
+SUCCESS		(x =  3) Total visits = 2808; p-value = 0.539300
+SUCCESS		(x =  4) Total visits = 2931; p-value = 0.249880
+SUCCESS		(x =  5) Total visits = 2932; p-value = 0.308060
+SUCCESS		(x =  6) Total visits = 2898; p-value = 0.433822
+SUCCESS		(x =  7) Total visits = 2961; p-value = 0.338355
+SUCCESS		(x =  8) Total visits = 3050; p-value = 0.228737
+SUCCESS		(x =  9) Total visits = 3147; p-value = 0.146964
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 512
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  412; p-value = 0.448497
+SUCCESS		(x = -8) Total visits =  436; p-value = 0.539729
+SUCCESS		(x = -7) Total visits =  460; p-value = 0.652210
+SUCCESS		(x = -6) Total visits =  490; p-value = 0.835784
+SUCCESS		(x = -5) Total visits =  519; p-value = 0.941872
+SUCCESS		(x = -4) Total visits =  528; p-value = 0.850107
+SUCCESS		(x = -3) Total visits =  516; p-value = 0.955420
+SUCCESS		(x = -2) Total visits =  525; p-value = 0.814559
+SUCCESS		(x = -1) Total visits =  521; p-value = 0.778519
+SUCCESS		(x =  1) Total visits =  519; p-value = 0.826845
+SUCCESS		(x =  2) Total visits =  608; p-value = 0.083265
+SUCCESS		(x =  3) Total visits =  668; p-value = 0.029245
+SUCCESS		(x =  4) Total visits =  614; p-value = 0.228295
+SUCCESS		(x =  5) Total visits =  573; p-value = 0.525157
+SUCCESS		(x =  6) Total visits =  585; p-value = 0.491564
+SUCCESS		(x =  7) Total visits =  587; p-value = 0.515667
+SUCCESS		(x =  8) Total visits =  579; p-value = 0.588781
+SUCCESS		(x =  9) Total visits =  555; p-value = 0.744495
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 3702
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 3739; p-value = 0.916939
+SUCCESS		(x = -8) Total visits = 3749; p-value = 0.887844
+SUCCESS		(x = -7) Total visits = 3679; p-value = 0.940903
+SUCCESS		(x = -6) Total visits = 3619; p-value = 0.771177
+SUCCESS		(x = -5) Total visits = 3580; p-value = 0.636490
+SUCCESS		(x = -4) Total visits = 3572; p-value = 0.567977
+SUCCESS		(x = -3) Total visits = 3533; p-value = 0.379753
+SUCCESS		(x = -2) Total visits = 3521; p-value = 0.224570
+SUCCESS		(x = -1) Total visits = 3547; p-value = 0.071647
+SUCCESS		(x =  1) Total visits = 3890; p-value = 0.028899
+SUCCESS		(x =  2) Total visits = 4025; p-value = 0.030216
+SUCCESS		(x =  3) Total visits = 4134; p-value = 0.024752
+SUCCESS		(x =  4) Total visits = 4091; p-value = 0.087505
+SUCCESS		(x =  5) Total visits = 4053; p-value = 0.173915
+SUCCESS		(x =  6) Total visits = 4070; p-value = 0.197227
+SUCCESS		(x =  7) Total visits = 3961; p-value = 0.403817
+SUCCESS		(x =  8) Total visits = 3884; p-value = 0.584980
+SUCCESS		(x =  9) Total visits = 3919; p-value = 0.540770
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 287
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 786
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  563; p-value = 0.172528
+SUCCESS		(x = -8) Total visits =  550; p-value = 0.124323
+SUCCESS		(x = -7) Total visits =  613; p-value = 0.226212
+SUCCESS		(x = -6) Total visits =  675; p-value = 0.398607
+SUCCESS		(x = -5) Total visits =  680; p-value = 0.372840
+SUCCESS		(x = -4) Total visits =  729; p-value = 0.586872
+SUCCESS		(x = -3) Total visits =  758; p-value = 0.752135
+SUCCESS		(x = -2) Total visits =  778; p-value = 0.907261
+SUCCESS		(x = -1) Total visits =  800; p-value = 0.724011
+SUCCESS		(x =  1) Total visits =  802; p-value = 0.686546
+SUCCESS		(x =  2) Total visits =  788; p-value = 0.976766
+SUCCESS		(x =  3) Total visits =  724; p-value = 0.484348
+SUCCESS		(x =  4) Total visits =  706; p-value = 0.445683
+SUCCESS		(x =  5) Total visits =  708; p-value = 0.511976
+SUCCESS		(x =  6) Total visits =  730; p-value = 0.670211
+SUCCESS		(x =  7) Total visits =  809; p-value = 0.872180
+SUCCESS		(x =  8) Total visits =  858; p-value = 0.639156
+SUCCESS		(x =  9) Total visits =  845; p-value = 0.718165
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 830
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1023; p-value = 0.250601
+SUCCESS		(x = -8) Total visits =  936; p-value = 0.501744
+SUCCESS		(x = -7) Total visits =  880; p-value = 0.733582
+SUCCESS		(x = -6) Total visits =  904; p-value = 0.583951
+SUCCESS		(x = -5) Total visits =  918; p-value = 0.471551
+SUCCESS		(x = -4) Total visits =  958; p-value = 0.235059
+SUCCESS		(x = -3) Total visits = 1006; p-value = 0.053378
+SUCCESS		(x = -2) Total visits =  997; p-value = 0.017958
+SUCCESS		(x = -1) Total visits =  923; p-value = 0.022454
+SUCCESS		(x =  1) Total visits =  837; p-value = 0.863588
+SUCCESS		(x =  2) Total visits =  800; p-value = 0.670753
+SUCCESS		(x =  3) Total visits =  731; p-value = 0.277184
+SUCCESS		(x =  4) Total visits =  760; p-value = 0.516097
+SUCCESS		(x =  5) Total visits =  762; p-value = 0.577984
+SUCCESS		(x =  6) Total visits =  679; p-value = 0.263804
+SUCCESS		(x =  7) Total visits =  709; p-value = 0.410120
+SUCCESS		(x =  8) Total visits =  800; p-value = 0.849217
+SUCCESS		(x =  9) Total visits =  812; p-value = 0.914670
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2696
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2835; p-value = 0.646156
+SUCCESS		(x = -8) Total visits = 2851; p-value = 0.585741
+SUCCESS		(x = -7) Total visits = 2970; p-value = 0.300709
+SUCCESS		(x = -6) Total visits = 2957; p-value = 0.283859
+SUCCESS		(x = -5) Total visits = 2873; p-value = 0.421695
+SUCCESS		(x = -4) Total visits = 2878; p-value = 0.348861
+SUCCESS		(x = -3) Total visits = 2801; p-value = 0.522508
+SUCCESS		(x = -2) Total visits = 2704; p-value = 0.949846
+SUCCESS		(x = -1) Total visits = 2718; p-value = 0.764479
+SUCCESS		(x =  1) Total visits = 2726; p-value = 0.682869
+SUCCESS		(x =  2) Total visits = 2777; p-value = 0.524211
+SUCCESS		(x =  3) Total visits = 2871; p-value = 0.286511
+SUCCESS		(x =  4) Total visits = 2928; p-value = 0.232414
+SUCCESS		(x =  5) Total visits = 2911; p-value = 0.329073
+SUCCESS		(x =  6) Total visits = 2981; p-value = 0.241906
+SUCCESS		(x =  7) Total visits = 3031; p-value = 0.205759
+SUCCESS		(x =  8) Total visits = 3038; p-value = 0.229148
+SUCCESS		(x =  9) Total visits = 3172; p-value = 0.115904
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 53
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 3463
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 3558; p-value = 0.781889
+SUCCESS		(x = -8) Total visits = 3563; p-value = 0.756370
+SUCCESS		(x = -7) Total visits = 3538; p-value = 0.802628
+SUCCESS		(x = -6) Total visits = 3572; p-value = 0.692915
+SUCCESS		(x = -5) Total visits = 3466; p-value = 0.990413
+SUCCESS		(x = -4) Total visits = 3333; p-value = 0.554916
+SUCCESS		(x = -3) Total visits = 3376; p-value = 0.640133
+SUCCESS		(x = -2) Total visits = 3380; p-value = 0.564746
+SUCCESS		(x = -1) Total visits = 3353; p-value = 0.186249
+SUCCESS		(x =  1) Total visits = 3568; p-value = 0.207065
+SUCCESS		(x =  2) Total visits = 3590; p-value = 0.378289
+SUCCESS		(x =  3) Total visits = 3610; p-value = 0.429566
+SUCCESS		(x =  4) Total visits = 3630; p-value = 0.448182
+SUCCESS		(x =  5) Total visits = 3666; p-value = 0.416172
+SUCCESS		(x =  6) Total visits = 3786; p-value = 0.241915
+SUCCESS		(x =  7) Total visits = 3972; p-value = 0.089827
+SUCCESS		(x =  8) Total visits = 4088; p-value = 0.052493
+SUCCESS		(x =  9) Total visits = 4139; p-value = 0.048831
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1154
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1008; p-value = 0.461078
+SUCCESS		(x = -8) Total visits =  908; p-value = 0.186127
+SUCCESS		(x = -7) Total visits =  870; p-value = 0.101096
+SUCCESS		(x = -6) Total visits =  867; p-value = 0.071668
+SUCCESS		(x = -5) Total visits =  909; p-value = 0.089147
+SUCCESS		(x = -4) Total visits =  954; p-value = 0.115606
+SUCCESS		(x = -3) Total visits =  974; p-value = 0.093817
+SUCCESS		(x = -2) Total visits = 1034; p-value = 0.149267
+SUCCESS		(x = -1) Total visits = 1087; p-value = 0.163129
+SUCCESS		(x =  1) Total visits = 1226; p-value = 0.133952
+SUCCESS		(x =  2) Total visits = 1228; p-value = 0.373836
+SUCCESS		(x =  3) Total visits = 1228; p-value = 0.490914
+SUCCESS		(x =  4) Total visits = 1222; p-value = 0.592660
+SUCCESS		(x =  5) Total visits = 1212; p-value = 0.687369
+SUCCESS		(x =  6) Total visits = 1221; p-value = 0.674124
+SUCCESS		(x =  7) Total visits = 1246; p-value = 0.595331
+SUCCESS		(x =  8) Total visits = 1264; p-value = 0.554391
+SUCCESS		(x =  9) Total visits = 1178; p-value = 0.903562
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2451
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2374; p-value = 0.789673
+SUCCESS		(x = -8) Total visits = 2361; p-value = 0.739963
+SUCCESS		(x = -7) Total visits = 2263; p-value = 0.456434
+SUCCESS		(x = -6) Total visits = 2209; p-value = 0.297340
+SUCCESS		(x = -5) Total visits = 2180; p-value = 0.196977
+SUCCESS		(x = -4) Total visits = 2174; p-value = 0.134822
+SUCCESS		(x = -3) Total visits = 2246; p-value = 0.190389
+SUCCESS		(x = -2) Total visits = 2298; p-value = 0.207069
+SUCCESS		(x = -1) Total visits = 2360; p-value = 0.193692
+SUCCESS		(x =  1) Total visits = 2464; p-value = 0.852699
+SUCCESS		(x =  2) Total visits = 2454; p-value = 0.980264
+SUCCESS		(x =  3) Total visits = 2430; p-value = 0.893294
+SUCCESS		(x =  4) Total visits = 2387; p-value = 0.729721
+SUCCESS		(x =  5) Total visits = 2328; p-value = 0.558148
+SUCCESS		(x =  6) Total visits = 2292; p-value = 0.493520
+SUCCESS		(x =  7) Total visits = 2380; p-value = 0.778515
+SUCCESS		(x =  8) Total visits = 2427; p-value = 0.929474
+SUCCESS		(x =  9) Total visits = 2388; p-value = 0.827244
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 4148
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 3505; p-value = 0.086862
+SUCCESS		(x = -8) Total visits = 3480; p-value = 0.058273
+SUCCESS		(x = -7) Total visits = 3449; p-value = 0.033297
+SUCCESS		(x = -6) Total visits = 3479; p-value = 0.026787
+SUCCESS		(x = -5) Total visits = 3655; p-value = 0.071196
+SUCCESS		(x = -4) Total visits = 3886; p-value = 0.276939
+SUCCESS		(x = -3) Total visits = 4082; p-value = 0.745893
+SUCCESS		(x = -2) Total visits = 4153; p-value = 0.974716
+SUCCESS		(x = -1) Total visits = 4140; p-value = 0.930010
+SUCCESS		(x =  1) Total visits = 4154; p-value = 0.947478
+SUCCESS		(x =  2) Total visits = 4120; p-value = 0.859127
+SUCCESS		(x =  3) Total visits = 4042; p-value = 0.602744
+SUCCESS		(x =  4) Total visits = 3918; p-value = 0.339866
+SUCCESS		(x =  5) Total visits = 3811; p-value = 0.217458
+SUCCESS		(x =  6) Total visits = 3806; p-value = 0.257581
+SUCCESS		(x =  7) Total visits = 3848; p-value = 0.360972
+SUCCESS		(x =  8) Total visits = 3839; p-value = 0.381058
+SUCCESS		(x =  9) Total visits = 3792; p-value = 0.343149
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1383
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1598; p-value = 0.321447
+SUCCESS		(x = -8) Total visits = 1621; p-value = 0.242631
+SUCCESS		(x = -7) Total visits = 1620; p-value = 0.211362
+SUCCESS		(x = -6) Total visits = 1625; p-value = 0.165328
+SUCCESS		(x = -5) Total visits = 1739; p-value = 0.024050
+SUCCESS		(x = -4) Total visits = 1728; p-value = 0.013161
+SUCCESS		(x = -3) Total visits = 1614; p-value = 0.049499
+SUCCESS		(x = -2) Total visits = 1526; p-value = 0.116457
+SUCCESS		(x = -1) Total visits = 1446; p-value = 0.230963
+SUCCESS		(x =  1) Total visits = 1371; p-value = 0.819515
+SUCCESS		(x =  2) Total visits = 1395; p-value = 0.895195
+SUCCESS		(x =  3) Total visits = 1400; p-value = 0.885061
+SUCCESS		(x =  4) Total visits = 1382; p-value = 0.994266
+SUCCESS		(x =  5) Total visits = 1323; p-value = 0.703737
+SUCCESS		(x =  6) Total visits = 1298; p-value = 0.626046
+SUCCESS		(x =  7) Total visits = 1314; p-value = 0.715952
+SUCCESS		(x =  8) Total visits = 1334; p-value = 0.809896
+SUCCESS		(x =  9) Total visits = 1456; p-value = 0.736384
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 3486
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 3159; p-value = 0.342200
+SUCCESS		(x = -8) Total visits = 3218; p-value = 0.407260
+SUCCESS		(x = -7) Total visits = 3401; p-value = 0.777685
+SUCCESS		(x = -6) Total visits = 3486; p-value = 1.000000
+SUCCESS		(x = -5) Total visits = 3397; p-value = 0.722368
+SUCCESS		(x = -4) Total visits = 3313; p-value = 0.433567
+SUCCESS		(x = -3) Total visits = 3240; p-value = 0.187650
+SUCCESS		(x = -2) Total visits = 3324; p-value = 0.262650
+SUCCESS		(x = -1) Total visits = 3470; p-value = 0.848040
+SUCCESS		(x =  1) Total visits = 3443; p-value = 0.606567
+SUCCESS		(x =  2) Total visits = 3388; p-value = 0.498012
+SUCCESS		(x =  3) Total visits = 3352; p-value = 0.472944
+SUCCESS		(x =  4) Total visits = 3294; p-value = 0.384788
+SUCCESS		(x =  5) Total visits = 3244; p-value = 0.334002
+SUCCESS		(x =  6) Total visits = 3272; p-value = 0.439671
+SUCCESS		(x =  7) Total visits = 3241; p-value = 0.415762
+SUCCESS		(x =  8) Total visits = 3341; p-value = 0.653881
+SUCCESS		(x =  9) Total visits = 3401; p-value = 0.804988
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2184
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1964; p-value = 0.419470
+SUCCESS		(x = -8) Total visits = 1997; p-value = 0.465049
+SUCCESS		(x = -7) Total visits = 2036; p-value = 0.534546
+SUCCESS		(x = -6) Total visits = 1999; p-value = 0.398679
+SUCCESS		(x = -5) Total visits = 1988; p-value = 0.322889
+SUCCESS		(x = -4) Total visits = 2005; p-value = 0.305988
+SUCCESS		(x = -3) Total visits = 2050; p-value = 0.364549
+SUCCESS		(x = -2) Total visits = 2093; p-value = 0.426643
+SUCCESS		(x = -1) Total visits = 2155; p-value = 0.660814
+SUCCESS		(x =  1) Total visits = 2172; p-value = 0.855922
+SUCCESS		(x =  2) Total visits = 2209; p-value = 0.827123
+SUCCESS		(x =  3) Total visits = 2239; p-value = 0.709769
+SUCCESS		(x =  4) Total visits = 2291; p-value = 0.540592
+SUCCESS		(x =  5) Total visits = 2303; p-value = 0.548384
+SUCCESS		(x =  6) Total visits = 2324; p-value = 0.523024
+SUCCESS		(x =  7) Total visits = 2413; p-value = 0.336553
+SUCCESS		(x =  8) Total visits = 2408; p-value = 0.381516
+SUCCESS		(x =  9) Total visits = 2365; p-value = 0.506549
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 580
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  910; p-value = 0.018775
+SUCCESS		(x = -8) Total visits =  862; p-value = 0.032530
+SUCCESS		(x = -7) Total visits =  762; p-value = 0.138320
+SUCCESS		(x = -6) Total visits =  695; p-value = 0.308650
+SUCCESS		(x = -5) Total visits =  698; p-value = 0.248145
+SUCCESS		(x = -4) Total visits =  677; p-value = 0.281726
+SUCCESS		(x = -3) Total visits =  635; p-value = 0.470181
+SUCCESS		(x = -2) Total visits =  580; p-value = 1.000000
+SUCCESS		(x = -1) Total visits =  552; p-value = 0.411015
+SUCCESS		(x =  1) Total visits =  574; p-value = 0.860163
+SUCCESS		(x =  2) Total visits =  536; p-value = 0.455746
+SUCCESS		(x =  3) Total visits =  513; p-value = 0.378993
+SUCCESS		(x =  4) Total visits =  541; p-value = 0.665161
+SUCCESS		(x =  5) Total visits =  574; p-value = 0.953174
+SUCCESS		(x =  6) Total visits =  573; p-value = 0.950588
+SUCCESS		(x =  7) Total visits =  570; p-value = 0.935098
+SUCCESS		(x =  8) Total visits =  578; p-value = 0.987903
+SUCCESS		(x =  9) Total visits =  572; p-value = 0.954570
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1444
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1499; p-value = 0.803963
+SUCCESS		(x = -8) Total visits = 1427; p-value = 0.934903
+SUCCESS		(x = -7) Total visits = 1360; p-value = 0.664637
+SUCCESS		(x = -6) Total visits = 1383; p-value = 0.732168
+SUCCESS		(x = -5) Total visits = 1366; p-value = 0.628521
+SUCCESS		(x = -4) Total visits = 1324; p-value = 0.398679
+SUCCESS		(x = -3) Total visits = 1339; p-value = 0.382234
+SUCCESS		(x = -2) Total visits = 1398; p-value = 0.621168
+SUCCESS		(x = -1) Total visits = 1436; p-value = 0.881660
+SUCCESS		(x =  1) Total visits = 1412; p-value = 0.551537
+SUCCESS		(x =  2) Total visits = 1420; p-value = 0.796530
+SUCCESS		(x =  3) Total visits = 1484; p-value = 0.739231
+SUCCESS		(x =  4) Total visits = 1478; p-value = 0.811006
+SUCCESS		(x =  5) Total visits = 1462; p-value = 0.911102
+SUCCESS		(x =  6) Total visits = 1376; p-value = 0.702820
+SUCCESS		(x =  7) Total visits = 1254; p-value = 0.326800
+SUCCESS		(x =  8) Total visits = 1243; p-value = 0.334184
+SUCCESS		(x =  9) Total visits = 1299; p-value = 0.512853
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1807
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1631; p-value = 0.477668
+SUCCESS		(x = -8) Total visits = 1707; p-value = 0.667561
+SUCCESS		(x = -7) Total visits = 1748; p-value = 0.785469
+SUCCESS		(x = -6) Total visits = 1716; p-value = 0.648098
+SUCCESS		(x = -5) Total visits = 1708; p-value = 0.583051
+SUCCESS		(x = -4) Total visits = 1740; p-value = 0.673578
+SUCCESS		(x = -3) Total visits = 1776; p-value = 0.817616
+SUCCESS		(x = -2) Total visits = 1763; p-value = 0.672610
+SUCCESS		(x = -1) Total visits = 1767; p-value = 0.505811
+SUCCESS		(x =  1) Total visits = 1721; p-value = 0.152558
+SUCCESS		(x =  2) Total visits = 1677; p-value = 0.211848
+SUCCESS		(x =  3) Total visits = 1745; p-value = 0.644637
+SUCCESS		(x =  4) Total visits = 1820; p-value = 0.934859
+SUCCESS		(x =  5) Total visits = 1872; p-value = 0.718540
+SUCCESS		(x =  6) Total visits = 1824; p-value = 0.932053
+SUCCESS		(x =  7) Total visits = 1799; p-value = 0.970558
+SUCCESS		(x =  8) Total visits = 1816; p-value = 0.969166
+SUCCESS		(x =  9) Total visits = 1776; p-value = 0.900470
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1441
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1441; p-value = 1.000000
+SUCCESS		(x = -8) Total visits = 1482; p-value = 0.843677
+SUCCESS		(x = -7) Total visits = 1526; p-value = 0.660562
+SUCCESS		(x = -6) Total visits = 1414; p-value = 0.879469
+SUCCESS		(x = -5) Total visits = 1318; p-value = 0.445031
+SUCCESS		(x = -4) Total visits = 1353; p-value = 0.535544
+SUCCESS		(x = -3) Total visits = 1425; p-value = 0.893966
+SUCCESS		(x = -2) Total visits = 1452; p-value = 0.905830
+SUCCESS		(x = -1) Total visits = 1408; p-value = 0.538749
+SUCCESS		(x =  1) Total visits = 1425; p-value = 0.765673
+SUCCESS		(x =  2) Total visits = 1376; p-value = 0.484523
+SUCCESS		(x =  3) Total visits = 1378; p-value = 0.599710
+SUCCESS		(x =  4) Total visits = 1406; p-value = 0.805359
+SUCCESS		(x =  5) Total visits = 1487; p-value = 0.775169
+SUCCESS		(x =  6) Total visits = 1533; p-value = 0.605361
+SUCCESS		(x =  7) Total visits = 1533; p-value = 0.634572
+SUCCESS		(x =  8) Total visits = 1521; p-value = 0.700410
+SUCCESS		(x =  9) Total visits = 1575; p-value = 0.544922
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1825
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2130; p-value = 0.220795
+SUCCESS		(x = -8) Total visits = 2075; p-value = 0.285325
+SUCCESS		(x = -7) Total visits = 2069; p-value = 0.262655
+SUCCESS		(x = -6) Total visits = 2086; p-value = 0.192725
+SUCCESS		(x = -5) Total visits = 2021; p-value = 0.279517
+SUCCESS		(x = -4) Total visits = 2004; p-value = 0.262780
+SUCCESS		(x = -3) Total visits = 1980; p-value = 0.251232
+SUCCESS		(x = -2) Total visits = 1931; p-value = 0.311072
+SUCCESS		(x = -1) Total visits = 1828; p-value = 0.960396
+SUCCESS		(x =  1) Total visits = 1960; p-value = 0.025448
+SUCCESS		(x =  2) Total visits = 1992; p-value = 0.110508
+SUCCESS		(x =  3) Total visits = 1920; p-value = 0.481918
+SUCCESS		(x =  4) Total visits = 1900; p-value = 0.638921
+SUCCESS		(x =  5) Total visits = 1935; p-value = 0.543910
+SUCCESS		(x =  6) Total visits = 2025; p-value = 0.318216
+SUCCESS		(x =  7) Total visits = 2034; p-value = 0.337326
+SUCCESS		(x =  8) Total visits = 2023; p-value = 0.397441
+SUCCESS		(x =  9) Total visits = 2012; p-value = 0.452829
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 373
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 7249
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 7019; p-value = 0.643159
+SUCCESS		(x = -8) Total visits = 7007; p-value = 0.603804
+SUCCESS		(x = -7) Total visits = 7011; p-value = 0.583544
+SUCCESS		(x = -6) Total visits = 7043; p-value = 0.605965
+SUCCESS		(x = -5) Total visits = 7199; p-value = 0.889910
+SUCCESS		(x = -4) Total visits = 7158; p-value = 0.775144
+SUCCESS		(x = -3) Total visits = 7097; p-value = 0.572378
+SUCCESS		(x = -2) Total visits = 7135; p-value = 0.584636
+SUCCESS		(x = -1) Total visits = 7212; p-value = 0.758623
+SUCCESS		(x =  1) Total visits = 7149; p-value = 0.406249
+SUCCESS		(x =  2) Total visits = 6968; p-value = 0.177856
+SUCCESS		(x =  3) Total visits = 6789; p-value = 0.087541
+SUCCESS		(x =  4) Total visits = 6846; p-value = 0.205859
+SUCCESS		(x =  5) Total visits = 6922; p-value = 0.365329
+SUCCESS		(x =  6) Total visits = 6854; p-value = 0.322607
+SUCCESS		(x =  7) Total visits = 6783; p-value = 0.283093
+SUCCESS		(x =  8) Total visits = 6897; p-value = 0.450357
+SUCCESS		(x =  9) Total visits = 6986; p-value = 0.596280
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2532
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2121; p-value = 0.161279
+SUCCESS		(x = -8) Total visits = 2152; p-value = 0.167966
+SUCCESS		(x = -7) Total visits = 2180; p-value = 0.170093
+SUCCESS		(x = -6) Total visits = 2227; p-value = 0.196260
+SUCCESS		(x = -5) Total visits = 2231; p-value = 0.158560
+SUCCESS		(x = -4) Total visits = 2277; p-value = 0.175611
+SUCCESS		(x = -3) Total visits = 2323; p-value = 0.189030
+SUCCESS		(x = -2) Total visits = 2335; p-value = 0.109976
+SUCCESS		(x = -1) Total visits = 2430; p-value = 0.151757
+SUCCESS		(x =  1) Total visits = 2520; p-value = 0.866088
+SUCCESS		(x =  2) Total visits = 2477; p-value = 0.655434
+SUCCESS		(x =  3) Total visits = 2465; p-value = 0.673712
+SUCCESS		(x =  4) Total visits = 2470; p-value = 0.741927
+SUCCESS		(x =  5) Total visits = 2396; p-value = 0.524095
+SUCCESS		(x =  6) Total visits = 2384; p-value = 0.530611
+SUCCESS		(x =  7) Total visits = 2463; p-value = 0.787988
+SUCCESS		(x =  8) Total visits = 2534; p-value = 0.994210
+SUCCESS		(x =  9) Total visits = 2535; p-value = 0.991842
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 858
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  859; p-value = 0.995329
+SUCCESS		(x = -8) Total visits =  857; p-value = 0.995027
+SUCCESS		(x = -7) Total visits =  807; p-value = 0.732757
+SUCCESS		(x = -6) Total visits =  759; p-value = 0.471170
+SUCCESS		(x = -5) Total visits =  812; p-value = 0.711271
+SUCCESS		(x = -4) Total visits =  843; p-value = 0.891140
+SUCCESS		(x = -3) Total visits =  810; p-value = 0.604319
+SUCCESS		(x = -2) Total visits =  790; p-value = 0.343261
+SUCCESS		(x = -1) Total visits =  797; p-value = 0.140871
+SUCCESS		(x =  1) Total visits =  896; p-value = 0.358970
+SUCCESS		(x =  2) Total visits =  912; p-value = 0.451680
+SUCCESS		(x =  3) Total visits =  874; p-value = 0.862861
+SUCCESS		(x =  4) Total visits =  818; p-value = 0.715137
+SUCCESS		(x =  5) Total visits =  853; p-value = 0.967907
+SUCCESS		(x =  6) Total visits =  891; p-value = 0.810181
+SUCCESS		(x =  7) Total visits =  933; p-value = 0.615564
+SUCCESS		(x =  8) Total visits =  964; p-value = 0.508807
+SUCCESS		(x =  9) Total visits =  928; p-value = 0.681923
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 138
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2440
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2435; p-value = 0.986150
+SUCCESS		(x = -8) Total visits = 2403; p-value = 0.891224
+SUCCESS		(x = -7) Total visits = 2436; p-value = 0.987329
+SUCCESS		(x = -6) Total visits = 2483; p-value = 0.852764
+SUCCESS		(x = -5) Total visits = 2324; p-value = 0.579913
+SUCCESS		(x = -4) Total visits = 2221; p-value = 0.236053
+SUCCESS		(x = -3) Total visits = 2200; p-value = 0.124430
+SUCCESS		(x = -2) Total visits = 2254; p-value = 0.124234
+SUCCESS		(x = -1) Total visits = 2405; p-value = 0.616355
+SUCCESS		(x =  1) Total visits = 2382; p-value = 0.406388
+SUCCESS		(x =  2) Total visits = 2283; p-value = 0.194437
+SUCCESS		(x =  3) Total visits = 2251; p-value = 0.226299
+SUCCESS		(x =  4) Total visits = 2273; p-value = 0.366228
+SUCCESS		(x =  5) Total visits = 2227; p-value = 0.309457
+SUCCESS		(x =  6) Total visits = 2188; p-value = 0.276744
+SUCCESS		(x =  7) Total visits = 2247; p-value = 0.443522
+SUCCESS		(x =  8) Total visits = 2364; p-value = 0.778784
+SUCCESS		(x =  9) Total visits = 2354; p-value = 0.765259
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 26
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 344
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 879
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  763; p-value = 0.502219
+SUCCESS		(x = -8) Total visits =  732; p-value = 0.365340
+SUCCESS		(x = -7) Total visits =  764; p-value = 0.446833
+SUCCESS		(x = -6) Total visits =  808; p-value = 0.609654
+SUCCESS		(x = -5) Total visits =  848; p-value = 0.805333
+SUCCESS		(x = -4) Total visits =  884; p-value = 0.964050
+SUCCESS		(x = -3) Total visits =  915; p-value = 0.700994
+SUCCESS		(x = -2) Total visits =  886; p-value = 0.923212
+SUCCESS		(x = -1) Total visits =  853; p-value = 0.535190
+SUCCESS		(x =  1) Total visits =  890; p-value = 0.793051
+SUCCESS		(x =  2) Total visits =  980; p-value = 0.164299
+SUCCESS		(x =  3) Total visits = 1067; p-value = 0.044939
+SUCCESS		(x =  4) Total visits = 1057; p-value = 0.108586
+SUCCESS		(x =  5) Total visits = 1043; p-value = 0.192300
+SUCCESS		(x =  6) Total visits = 1031; p-value = 0.274374
+SUCCESS		(x =  7) Total visits = 1068; p-value = 0.211225
+SUCCESS		(x =  8) Total visits = 1156; p-value = 0.088048
+SUCCESS		(x =  9) Total visits = 1208; p-value = 0.057027
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2009
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1484; p-value = 0.044562
+SUCCESS		(x = -8) Total visits = 1528; p-value = 0.050081
+SUCCESS		(x = -7) Total visits = 1623; p-value = 0.091234
+SUCCESS		(x = -6) Total visits = 1714; p-value = 0.160556
+SUCCESS		(x = -5) Total visits = 1766; p-value = 0.201302
+SUCCESS		(x = -4) Total visits = 1788; p-value = 0.187582
+SUCCESS		(x = -3) Total visits = 1781; p-value = 0.107706
+SUCCESS		(x = -2) Total visits = 1841; p-value = 0.125971
+SUCCESS		(x = -1) Total visits = 1949; p-value = 0.343865
+SUCCESS		(x =  1) Total visits = 2035; p-value = 0.681678
+SUCCESS		(x =  2) Total visits = 1976; p-value = 0.763741
+SUCCESS		(x =  3) Total visits = 1963; p-value = 0.745529
+SUCCESS		(x =  4) Total visits = 1979; p-value = 0.858030
+SUCCESS		(x =  5) Total visits = 1944; p-value = 0.732492
+SUCCESS		(x =  6) Total visits = 1909; p-value = 0.634315
+SUCCESS		(x =  7) Total visits = 1892; p-value = 0.608701
+SUCCESS		(x =  8) Total visits = 1915; p-value = 0.701799
+SUCCESS		(x =  9) Total visits = 1932; p-value = 0.768285
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 5023
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 5207; p-value = 0.656144
+SUCCESS		(x = -8) Total visits = 5315; p-value = 0.451923
+SUCCESS		(x = -7) Total visits = 5355; p-value = 0.358257
+SUCCESS		(x = -6) Total visits = 5232; p-value = 0.529536
+SUCCESS		(x = -5) Total visits = 5075; p-value = 0.862702
+SUCCESS		(x = -4) Total visits = 5144; p-value = 0.648182
+SUCCESS		(x = -3) Total visits = 5182; p-value = 0.478052
+SUCCESS		(x = -2) Total visits = 5043; p-value = 0.908282
+SUCCESS		(x = -1) Total visits = 5008; p-value = 0.881036
+SUCCESS		(x =  1) Total visits = 5016; p-value = 0.944321
+SUCCESS		(x =  2) Total visits = 5025; p-value = 0.990808
+SUCCESS		(x =  3) Total visits = 5092; p-value = 0.758181
+SUCCESS		(x =  4) Total visits = 5008; p-value = 0.954892
+SUCCESS		(x =  5) Total visits = 4834; p-value = 0.529640
+SUCCESS		(x =  6) Total visits = 4780; p-value = 0.464783
+SUCCESS		(x =  7) Total visits = 4891; p-value = 0.714915
+SUCCESS		(x =  8) Total visits = 4956; p-value = 0.862968
+SUCCESS		(x =  9) Total visits = 4952; p-value = 0.863590
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 198
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2294
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2207; p-value = 0.755407
+SUCCESS		(x = -8) Total visits = 2169; p-value = 0.633726
+SUCCESS		(x = -7) Total visits = 2154; p-value = 0.566475
+SUCCESS		(x = -6) Total visits = 2093; p-value = 0.370936
+SUCCESS		(x = -5) Total visits = 2065; p-value = 0.259766
+SUCCESS		(x = -4) Total visits = 2121; p-value = 0.334369
+SUCCESS		(x = -3) Total visits = 2160; p-value = 0.376305
+SUCCESS		(x = -2) Total visits = 2208; p-value = 0.463536
+SUCCESS		(x = -1) Total visits = 2262; p-value = 0.636619
+SUCCESS		(x =  1) Total visits = 2446; p-value = 0.024829
+SUCCESS		(x =  2) Total visits = 2473; p-value = 0.127074
+SUCCESS		(x =  3) Total visits = 2410; p-value = 0.443747
+SUCCESS		(x =  4) Total visits = 2388; p-value = 0.599913
+SUCCESS		(x =  5) Total visits = 2417; p-value = 0.544978
+SUCCESS		(x =  6) Total visits = 2446; p-value = 0.498656
+SUCCESS		(x =  7) Total visits = 2377; p-value = 0.733965
+SUCCESS		(x =  8) Total visits = 2359; p-value = 0.804309
+SUCCESS		(x =  9) Total visits = 2355; p-value = 0.827101
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 952
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1095; p-value = 0.426708
+SUCCESS		(x = -8) Total visits = 1084; p-value = 0.434756
+SUCCESS		(x = -7) Total visits = 1019; p-value = 0.670208
+SUCCESS		(x = -6) Total visits =  986; p-value = 0.814259
+SUCCESS		(x = -5) Total visits =  961; p-value = 0.945187
+SUCCESS		(x = -4) Total visits =  986; p-value = 0.768370
+SUCCESS		(x = -3) Total visits = 1039; p-value = 0.372574
+SUCCESS		(x = -2) Total visits = 1082; p-value = 0.085417
+SUCCESS		(x = -1) Total visits = 1051; p-value = 0.023279
+SUCCESS		(x =  1) Total visits =  866; p-value = 0.048735
+SUCCESS		(x =  2) Total visits =  804; p-value = 0.050201
+SUCCESS		(x =  3) Total visits =  771; p-value = 0.063586
+SUCCESS		(x =  4) Total visits =  764; p-value = 0.103429
+SUCCESS		(x =  5) Total visits =  753; p-value = 0.128463
+SUCCESS		(x =  6) Total visits =  742; p-value = 0.146759
+SUCCESS		(x =  7) Total visits =  744; p-value = 0.186141
+SUCCESS		(x =  8) Total visits =  746; p-value = 0.222861
+SUCCESS		(x =  9) Total visits =  736; p-value = 0.229909
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1377
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1375; p-value = 0.992625
+SUCCESS		(x = -8) Total visits = 1317; p-value = 0.767837
+SUCCESS		(x = -7) Total visits = 1291; p-value = 0.649461
+SUCCESS		(x = -6) Total visits = 1344; p-value = 0.849624
+SUCCESS		(x = -5) Total visits = 1349; p-value = 0.858840
+SUCCESS		(x = -4) Total visits = 1318; p-value = 0.670885
+SUCCESS		(x = -3) Total visits = 1391; p-value = 0.905033
+SUCCESS		(x = -2) Total visits = 1436; p-value = 0.516276
+SUCCESS		(x = -1) Total visits = 1389; p-value = 0.819129
+SUCCESS		(x =  1) Total visits = 1460; p-value = 0.113741
+SUCCESS		(x =  2) Total visits = 1569; p-value = 0.034659
+FAILURE		(x =  3) Total visits = 1680; p-value = 0.009820
+FAILURE		(x =  4) Total visits = 1787; p-value = 0.003148
+FAILURE		(x =  5) Total visits = 1800; p-value = 0.007214
+SUCCESS		(x =  6) Total visits = 1713; p-value = 0.053550
+SUCCESS		(x =  7) Total visits = 1678; p-value = 0.111657
+SUCCESS		(x =  8) Total visits = 1653; p-value = 0.174482
+SUCCESS		(x =  9) Total visits = 1558; p-value = 0.402867
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1284
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1300; p-value = 0.938960
+SUCCESS		(x = -8) Total visits = 1218; p-value = 0.736660
+SUCCESS		(x = -7) Total visits = 1203; p-value = 0.657535
+SUCCESS		(x = -6) Total visits = 1252; p-value = 0.848999
+SUCCESS		(x = -5) Total visits = 1307; p-value = 0.879747
+SUCCESS		(x = -4) Total visits = 1305; p-value = 0.875537
+SUCCESS		(x = -3) Total visits = 1360; p-value = 0.502409
+SUCCESS		(x = -2) Total visits = 1384; p-value = 0.254574
+SUCCESS		(x = -1) Total visits = 1356; p-value = 0.155373
+SUCCESS		(x =  1) Total visits = 1218; p-value = 0.192778
+SUCCESS		(x =  2) Total visits = 1228; p-value = 0.523465
+SUCCESS		(x =  3) Total visits = 1179; p-value = 0.354118
+SUCCESS		(x =  4) Total visits = 1134; p-value = 0.263234
+SUCCESS		(x =  5) Total visits = 1098; p-value = 0.221151
+SUCCESS		(x =  6) Total visits = 1070; p-value = 0.202923
+SUCCESS		(x =  7) Total visits = 1083; p-value = 0.271294
+SUCCESS		(x =  8) Total visits = 1074; p-value = 0.284628
+SUCCESS		(x =  9) Total visits = 1082; p-value = 0.333652
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2991
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2447; p-value = 0.088028
+SUCCESS		(x = -8) Total visits = 2501; p-value = 0.101884
+SUCCESS		(x = -7) Total visits = 2539; p-value = 0.105049
+SUCCESS		(x = -6) Total visits = 2507; p-value = 0.059187
+SUCCESS		(x = -5) Total visits = 2494; p-value = 0.032196
+SUCCESS		(x = -4) Total visits = 2600; p-value = 0.056036
+SUCCESS		(x = -3) Total visits = 2805; p-value = 0.282157
+SUCCESS		(x = -2) Total visits = 2982; p-value = 0.946436
+SUCCESS		(x = -1) Total visits = 3030; p-value = 0.614089
+SUCCESS		(x =  1) Total visits = 3012; p-value = 0.785994
+SUCCESS		(x =  2) Total visits = 3020; p-value = 0.828615
+SUCCESS		(x =  3) Total visits = 3021; p-value = 0.862286
+SUCCESS		(x =  4) Total visits = 3042; p-value = 0.803184
+SUCCESS		(x =  5) Total visits = 3009; p-value = 0.938165
+SUCCESS		(x =  6) Total visits = 2992; p-value = 0.996890
+SUCCESS		(x =  7) Total visits = 2926; p-value = 0.815694
+SUCCESS		(x =  8) Total visits = 2886; p-value = 0.725944
+SUCCESS		(x =  9) Total visits = 2907; p-value = 0.792235
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 3419
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 3899; p-value = 0.159179
+SUCCESS		(x = -8) Total visits = 3732; p-value = 0.328414
+SUCCESS		(x = -7) Total visits = 3663; p-value = 0.413142
+SUCCESS		(x = -6) Total visits = 3638; p-value = 0.424572
+SUCCESS		(x = -5) Total visits = 3595; p-value = 0.478040
+SUCCESS		(x = -4) Total visits = 3500; p-value = 0.711211
+SUCCESS		(x = -3) Total visits = 3406; p-value = 0.943950
+SUCCESS		(x = -2) Total visits = 3432; p-value = 0.927679
+SUCCESS		(x = -1) Total visits = 3436; p-value = 0.837118
+SUCCESS		(x =  1) Total visits = 3541; p-value = 0.140118
+SUCCESS		(x =  2) Total visits = 3730; p-value = 0.029903
+SUCCESS		(x =  3) Total visits = 3846; p-value = 0.020928
+SUCCESS		(x =  4) Total visits = 3849; p-value = 0.049366
+SUCCESS		(x =  5) Total visits = 3819; p-value = 0.106874
+SUCCESS		(x =  6) Total visits = 3846; p-value = 0.119489
+SUCCESS		(x =  7) Total visits = 4011; p-value = 0.047081
+SUCCESS		(x =  8) Total visits = 4129; p-value = 0.026629
+SUCCESS		(x =  9) Total visits = 4001; p-value = 0.087822
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1548
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1476; p-value = 0.753643
+SUCCESS		(x = -8) Total visits = 1535; p-value = 0.951897
+SUCCESS		(x = -7) Total visits = 1508; p-value = 0.841963
+SUCCESS		(x = -6) Total visits = 1519; p-value = 0.875130
+SUCCESS		(x = -5) Total visits = 1554; p-value = 0.971327
+SUCCESS		(x = -4) Total visits = 1566; p-value = 0.902684
+SUCCESS		(x = -3) Total visits = 1608; p-value = 0.629633
+SUCCESS		(x = -2) Total visits = 1602; p-value = 0.575264
+SUCCESS		(x = -1) Total visits = 1566; p-value = 0.746318
+SUCCESS		(x =  1) Total visits = 1591; p-value = 0.439640
+SUCCESS		(x =  2) Total visits = 1616; p-value = 0.480448
+SUCCESS		(x =  3) Total visits = 1607; p-value = 0.635353
+SUCCESS		(x =  4) Total visits = 1708; p-value = 0.277102
+SUCCESS		(x =  5) Total visits = 1842; p-value = 0.078193
+SUCCESS		(x =  6) Total visits = 1973; p-value = 0.021279
+SUCCESS		(x =  7) Total visits = 1926; p-value = 0.059542
+SUCCESS		(x =  8) Total visits = 1760; p-value = 0.325233
+SUCCESS		(x =  9) Total visits = 1690; p-value = 0.535942
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 7523
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 7386; p-value = 0.786479
+SUCCESS		(x = -8) Total visits = 7511; p-value = 0.979848
+SUCCESS		(x = -7) Total visits = 7617; p-value = 0.831684
+SUCCESS		(x = -6) Total visits = 7650; p-value = 0.754908
+SUCCESS		(x = -5) Total visits = 7542; p-value = 0.958822
+SUCCESS		(x = -4) Total visits = 7428; p-value = 0.769730
+SUCCESS		(x = -3) Total visits = 7415; p-value = 0.693760
+SUCCESS		(x = -2) Total visits = 7391; p-value = 0.534401
+SUCCESS		(x = -1) Total visits = 7312; p-value = 0.085401
+SUCCESS		(x =  1) Total visits = 7720; p-value = 0.108266
+SUCCESS		(x =  2) Total visits = 7833; p-value = 0.144533
+SUCCESS		(x =  3) Total visits = 7912; p-value = 0.156117
+SUCCESS		(x =  4) Total visits = 7824; p-value = 0.353675
+SUCCESS		(x =  5) Total visits = 7763; p-value = 0.514273
+SUCCESS		(x =  6) Total visits = 7733; p-value = 0.605719
+SUCCESS		(x =  7) Total visits = 7597; p-value = 0.867118
+SUCCESS		(x =  8) Total visits = 7601; p-value = 0.869584
+SUCCESS		(x =  9) Total visits = 7641; p-value = 0.815515
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 5036
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 4952; p-value = 0.839135
+SUCCESS		(x = -8) Total visits = 5038; p-value = 0.995895
+SUCCESS		(x = -7) Total visits = 5140; p-value = 0.773797
+SUCCESS		(x = -6) Total visits = 5176; p-value = 0.674044
+SUCCESS		(x = -5) Total visits = 5201; p-value = 0.583671
+SUCCESS		(x = -4) Total visits = 5283; p-value = 0.352252
+SUCCESS		(x = -3) Total visits = 5292; p-value = 0.253967
+SUCCESS		(x = -2) Total visits = 5085; p-value = 0.778029
+SUCCESS		(x = -1) Total visits = 4955; p-value = 0.419609
+SUCCESS		(x =  1) Total visits = 5195; p-value = 0.113124
+SUCCESS		(x =  2) Total visits = 5287; p-value = 0.148750
+SUCCESS		(x =  3) Total visits = 5305; p-value = 0.230646
+SUCCESS		(x =  4) Total visits = 5322; p-value = 0.281432
+SUCCESS		(x =  5) Total visits = 5331; p-value = 0.327179
+SUCCESS		(x =  6) Total visits = 5411; p-value = 0.259904
+SUCCESS		(x =  7) Total visits = 5492; p-value = 0.207602
+SUCCESS		(x =  8) Total visits = 5521; p-value = 0.212111
+SUCCESS		(x =  9) Total visits = 5367; p-value = 0.423758
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 3297
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 3205; p-value = 0.783483
+SUCCESS		(x = -8) Total visits = 3212; p-value = 0.786952
+SUCCESS		(x = -7) Total visits = 3198; p-value = 0.735262
+SUCCESS		(x = -6) Total visits = 3152; p-value = 0.590308
+SUCCESS		(x = -5) Total visits = 3101; p-value = 0.421072
+SUCCESS		(x = -4) Total visits = 3136; p-value = 0.453628
+SUCCESS		(x = -3) Total visits = 3137; p-value = 0.378225
+SUCCESS		(x = -2) Total visits = 3188; p-value = 0.438351
+SUCCESS		(x = -1) Total visits = 3256; p-value = 0.613626
+SUCCESS		(x =  1) Total visits = 3291; p-value = 0.941099
+SUCCESS		(x =  2) Total visits = 3172; p-value = 0.374143
+SUCCESS		(x =  3) Total visits = 3067; p-value = 0.205268
+SUCCESS		(x =  4) Total visits = 3064; p-value = 0.278140
+SUCCESS		(x =  5) Total visits = 3088; p-value = 0.390933
+SUCCESS		(x =  6) Total visits = 3049; p-value = 0.357138
+SUCCESS		(x =  7) Total visits = 3105; p-value = 0.511969
+SUCCESS		(x =  8) Total visits = 3254; p-value = 0.891248
+SUCCESS		(x =  9) Total visits = 3406; p-value = 0.744759
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 4011
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 3587; p-value = 0.250905
+SUCCESS		(x = -8) Total visits = 3694; p-value = 0.360799
+SUCCESS		(x = -7) Total visits = 3628; p-value = 0.235621
+SUCCESS		(x = -6) Total visits = 3518; p-value = 0.096990
+SUCCESS		(x = -5) Total visits = 3524; p-value = 0.069916
+SUCCESS		(x = -4) Total visits = 3652; p-value = 0.129780
+SUCCESS		(x = -3) Total visits = 3799; p-value = 0.289807
+SUCCESS		(x = -2) Total visits = 3917; p-value = 0.544558
+SUCCESS		(x = -1) Total visits = 3931; p-value = 0.371750
+SUCCESS		(x =  1) Total visits = 4173; p-value = 0.070493
+SUCCESS		(x =  2) Total visits = 4374; p-value = 0.019287
+FAILURE		(x =  3) Total visits = 4561; p-value = 0.006029
+FAILURE		(x =  4) Total visits = 4637; p-value = 0.008249
+FAILURE		(x =  5) Total visits = 4759; p-value = 0.005373
+FAILURE		(x =  6) Total visits = 4919; p-value = 0.002238
+FAILURE		(x =  7) Total visits = 4995; p-value = 0.002311
+FAILURE		(x =  8) Total visits = 4942; p-value = 0.007277
+FAILURE		(x =  9) Total visits = 5014; p-value = 0.006607
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 3315
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 3477; p-value = 0.629422
+SUCCESS		(x = -8) Total visits = 3401; p-value = 0.785079
+SUCCESS		(x = -7) Total visits = 3183; p-value = 0.652985
+SUCCESS		(x = -6) Total visits = 3014; p-value = 0.265028
+SUCCESS		(x = -5) Total visits = 2971; p-value = 0.159056
+SUCCESS		(x = -4) Total visits = 2971; p-value = 0.110309
+SUCCESS		(x = -3) Total visits = 3026; p-value = 0.112447
+SUCCESS		(x = -2) Total visits = 3146; p-value = 0.230796
+SUCCESS		(x = -1) Total visits = 3240; p-value = 0.357001
+SUCCESS		(x =  1) Total visits = 3285; p-value = 0.712547
+SUCCESS		(x =  2) Total visits = 3210; p-value = 0.456567
+SUCCESS		(x =  3) Total visits = 3198; p-value = 0.520480
+SUCCESS		(x =  4) Total visits = 3146; p-value = 0.432760
+SUCCESS		(x =  5) Total visits = 3094; p-value = 0.365614
+SUCCESS		(x =  6) Total visits = 3031; p-value = 0.292967
+SUCCESS		(x =  7) Total visits = 2932; p-value = 0.192036
+SUCCESS		(x =  8) Total visits = 2825; p-value = 0.120233
+SUCCESS		(x =  9) Total visits = 2706; p-value = 0.069679
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1143
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1396; p-value = 0.199356
+SUCCESS		(x = -8) Total visits = 1364; p-value = 0.232689
+SUCCESS		(x = -7) Total visits = 1353; p-value = 0.223158
+SUCCESS		(x = -6) Total visits = 1377; p-value = 0.140040
+SUCCESS		(x = -5) Total visits = 1356; p-value = 0.137549
+SUCCESS		(x = -4) Total visits = 1323; p-value = 0.154755
+SUCCESS		(x = -3) Total visits = 1275; p-value = 0.216953
+SUCCESS		(x = -2) Total visits = 1233; p-value = 0.277132
+SUCCESS		(x = -1) Total visits = 1172; p-value = 0.544156
+SUCCESS		(x =  1) Total visits = 1114; p-value = 0.544156
+SUCCESS		(x =  2) Total visits = 1035; p-value = 0.192185
+SUCCESS		(x =  3) Total visits =  959; p-value = 0.085241
+SUCCESS		(x =  4) Total visits =  925; p-value = 0.084828
+SUCCESS		(x =  5) Total visits =  934; p-value = 0.145091
+SUCCESS		(x =  6) Total visits =  969; p-value = 0.272522
+SUCCESS		(x =  7) Total visits = 1001; p-value = 0.410100
+SUCCESS		(x =  8) Total visits =  972; p-value = 0.355774
+SUCCESS		(x =  9) Total visits =  903; p-value = 0.223436
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 822
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  866; p-value = 0.792400
+SUCCESS		(x = -8) Total visits =  878; p-value = 0.721385
+SUCCESS		(x = -7) Total visits =  921; p-value = 0.498283
+SUCCESS		(x = -6) Total visits =  923; p-value = 0.452617
+SUCCESS		(x = -5) Total visits =  885; p-value = 0.604509
+SUCCESS		(x = -4) Total visits =  868; p-value = 0.668067
+SUCCESS		(x = -3) Total visits =  870; p-value = 0.596510
+SUCCESS		(x = -2) Total visits =  833; p-value = 0.875535
+SUCCESS		(x = -1) Total visits =  803; p-value = 0.639355
+SUCCESS		(x =  1) Total visits =  860; p-value = 0.348655
+SUCCESS		(x =  2) Total visits =  947; p-value = 0.075090
+SUCCESS		(x =  3) Total visits =  987; p-value = 0.068774
+SUCCESS		(x =  4) Total visits =  961; p-value = 0.195068
+SUCCESS		(x =  5) Total visits =  888; p-value = 0.587412
+SUCCESS		(x =  6) Total visits =  809; p-value = 0.922988
+SUCCESS		(x =  7) Total visits =  837; p-value = 0.918276
+SUCCESS		(x =  8) Total visits =  863; p-value = 0.794024
+SUCCESS		(x =  9) Total visits =  911; p-value = 0.594469
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 526
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  739; p-value = 0.111217
+SUCCESS		(x = -8) Total visits =  814; p-value = 0.021868
+FAILURE		(x = -7) Total visits =  851; p-value = 0.005451
+SUCCESS		(x = -6) Total visits =  789; p-value = 0.014491
+SUCCESS		(x = -5) Total visits =  704; p-value = 0.067351
+SUCCESS		(x = -4) Total visits =  693; p-value = 0.051646
+SUCCESS		(x = -3) Total visits =  690; p-value = 0.023743
+SUCCESS		(x = -2) Total visits =  627; p-value = 0.072201
+SUCCESS		(x = -1) Total visits =  573; p-value = 0.147317
+SUCCESS		(x =  1) Total visits =  481; p-value = 0.165317
+SUCCESS		(x =  2) Total visits =  487; p-value = 0.487545
+SUCCESS		(x =  3) Total visits =  494; p-value = 0.659052
+SUCCESS		(x =  4) Total visits =  476; p-value = 0.560124
+SUCCESS		(x =  5) Total visits =  470; p-value = 0.564941
+SUCCESS		(x =  6) Total visits =  485; p-value = 0.703103
+SUCCESS		(x =  7) Total visits =  502; p-value = 0.837396
+SUCCESS		(x =  8) Total visits =  519; p-value = 0.955561
+SUCCESS		(x =  9) Total visits =  527; p-value = 0.994034
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 67
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2242
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2150; p-value = 0.738969
+SUCCESS		(x = -8) Total visits = 2160; p-value = 0.751865
+SUCCESS		(x = -7) Total visits = 2198; p-value = 0.855393
+SUCCESS		(x = -6) Total visits = 2293; p-value = 0.818374
+SUCCESS		(x = -5) Total visits = 2389; p-value = 0.464321
+SUCCESS		(x = -4) Total visits = 2449; p-value = 0.242649
+SUCCESS		(x = -3) Total visits = 2488; p-value = 0.100399
+SUCCESS		(x = -2) Total visits = 2525; p-value = 0.014687
+SUCCESS		(x = -1) Total visits = 2389; p-value = 0.028145
+SUCCESS		(x =  1) Total visits = 2297; p-value = 0.411445
+SUCCESS		(x =  2) Total visits = 2347; p-value = 0.365303
+SUCCESS		(x =  3) Total visits = 2352; p-value = 0.462558
+SUCCESS		(x =  4) Total visits = 2289; p-value = 0.790788
+SUCCESS		(x =  5) Total visits = 2149; p-value = 0.643404
+SUCCESS		(x =  6) Total visits = 2062; p-value = 0.417663
+SUCCESS		(x =  7) Total visits = 2077; p-value = 0.494350
+SUCCESS		(x =  8) Total visits = 2053; p-value = 0.466150
+SUCCESS		(x =  9) Total visits = 2051; p-value = 0.489067
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1893
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1920; p-value = 0.915244
+SUCCESS		(x = -8) Total visits = 1876; p-value = 0.943130
+SUCCESS		(x = -7) Total visits = 1881; p-value = 0.956863
+SUCCESS		(x = -6) Total visits = 2020; p-value = 0.533728
+SUCCESS		(x = -5) Total visits = 2117; p-value = 0.224942
+SUCCESS		(x = -4) Total visits = 2136; p-value = 0.135521
+SUCCESS		(x = -3) Total visits = 2067; p-value = 0.205993
+SUCCESS		(x = -2) Total visits = 2001; p-value = 0.310878
+SUCCESS		(x = -1) Total visits = 1936; p-value = 0.484652
+SUCCESS		(x =  1) Total visits = 1863; p-value = 0.625859
+SUCCESS		(x =  2) Total visits = 1809; p-value = 0.430588
+SUCCESS		(x =  3) Total visits = 1872; p-value = 0.878689
+SUCCESS		(x =  4) Total visits = 1941; p-value = 0.768108
+SUCCESS		(x =  5) Total visits = 1939; p-value = 0.803207
+SUCCESS		(x =  6) Total visits = 1930; p-value = 0.856126
+SUCCESS		(x =  7) Total visits = 1954; p-value = 0.783348
+SUCCESS		(x =  8) Total visits = 2052; p-value = 0.504639
+SUCCESS		(x =  9) Total visits = 2130; p-value = 0.350208
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 714
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  613; p-value = 0.516833
+SUCCESS		(x = -8) Total visits =  644; p-value = 0.632446
+SUCCESS		(x = -7) Total visits =  658; p-value = 0.681065
+SUCCESS		(x = -6) Total visits =  673; p-value = 0.743568
+SUCCESS		(x = -5) Total visits =  715; p-value = 0.992962
+SUCCESS		(x = -4) Total visits =  709; p-value = 0.960114
+SUCCESS		(x = -3) Total visits =  702; p-value = 0.887069
+SUCCESS		(x = -2) Total visits =  705; p-value = 0.890632
+SUCCESS		(x = -1) Total visits =  726; p-value = 0.750824
+SUCCESS		(x =  1) Total visits =  674; p-value = 0.289822
+SUCCESS		(x =  2) Total visits =  642; p-value = 0.271315
+SUCCESS		(x =  3) Total visits =  658; p-value = 0.507501
+SUCCESS		(x =  4) Total visits =  708; p-value = 0.952146
+SUCCESS		(x =  5) Total visits =  708; p-value = 0.957791
+SUCCESS		(x =  6) Total visits =  693; p-value = 0.866933
+SUCCESS		(x =  7) Total visits =  669; p-value = 0.741192
+SUCCESS		(x =  8) Total visits =  640; p-value = 0.613125
+SUCCESS		(x =  9) Total visits =  663; p-value = 0.743421
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2311
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1928; p-value = 0.171832
+SUCCESS		(x = -8) Total visits = 1954; p-value = 0.175151
+SUCCESS		(x = -7) Total visits = 1992; p-value = 0.193129
+SUCCESS		(x = -6) Total visits = 1945; p-value = 0.104548
+SUCCESS		(x = -5) Total visits = 1937; p-value = 0.066694
+SUCCESS		(x = -4) Total visits = 2082; p-value = 0.202973
+SUCCESS		(x = -3) Total visits = 2152; p-value = 0.295599
+SUCCESS		(x = -2) Total visits = 2130; p-value = 0.124268
+SUCCESS		(x = -1) Total visits = 2185; p-value = 0.063833
+SUCCESS		(x =  1) Total visits = 2358; p-value = 0.489361
+SUCCESS		(x =  2) Total visits = 2341; p-value = 0.798902
+SUCCESS		(x =  3) Total visits = 2401; p-value = 0.553832
+SUCCESS		(x =  4) Total visits = 2456; p-value = 0.420169
+SUCCESS		(x =  5) Total visits = 2456; p-value = 0.477123
+SUCCESS		(x =  6) Total visits = 2483; p-value = 0.445576
+SUCCESS		(x =  7) Total visits = 2554; p-value = 0.321523
+SUCCESS		(x =  8) Total visits = 2608; p-value = 0.259334
+SUCCESS		(x =  9) Total visits = 2630; p-value = 0.255111
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1088
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1129; p-value = 0.831193
+SUCCESS		(x = -8) Total visits = 1059; p-value = 0.872473
+SUCCESS		(x = -7) Total visits = 1041; p-value = 0.779903
+SUCCESS		(x = -6) Total visits = 1039; p-value = 0.751459
+SUCCESS		(x = -5) Total visits = 1002; p-value = 0.538861
+SUCCESS		(x = -4) Total visits = 1019; p-value = 0.576110
+SUCCESS		(x = -3) Total visits = 1052; p-value = 0.729993
+SUCCESS		(x = -2) Total visits = 1066; p-value = 0.785399
+SUCCESS		(x = -1) Total visits = 1091; p-value = 0.948722
+SUCCESS		(x =  1) Total visits = 1115; p-value = 0.562719
+SUCCESS		(x =  2) Total visits = 1087; p-value = 0.990125
+SUCCESS		(x =  3) Total visits = 1058; p-value = 0.773644
+SUCCESS		(x =  4) Total visits = 1091; p-value = 0.980607
+SUCCESS		(x =  5) Total visits = 1109; p-value = 0.880716
+SUCCESS		(x =  6) Total visits = 1132; p-value = 0.776105
+SUCCESS		(x =  7) Total visits = 1119; p-value = 0.853766
+SUCCESS		(x =  8) Total visits = 1085; p-value = 0.986752
+SUCCESS		(x =  9) Total visits = 1067; p-value = 0.913055
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 653
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  374; p-value = 0.061146
+SUCCESS		(x = -8) Total visits =  421; p-value = 0.097405
+SUCCESS		(x = -7) Total visits =  439; p-value = 0.100514
+SUCCESS		(x = -6) Total visits =  439; p-value = 0.074190
+SUCCESS		(x = -5) Total visits =  470; p-value = 0.091422
+SUCCESS		(x = -4) Total visits =  516; p-value = 0.151901
+SUCCESS		(x = -3) Total visits =  534; p-value = 0.140854
+SUCCESS		(x = -2) Total visits =  560; p-value = 0.137341
+SUCCESS		(x = -1) Total visits =  626; p-value = 0.454989
+SUCCESS		(x =  1) Total visits =  663; p-value = 0.782001
+SUCCESS		(x =  2) Total visits =  669; p-value = 0.798247
+SUCCESS		(x =  3) Total visits =  651; p-value = 0.980254
+SUCCESS		(x =  4) Total visits =  618; p-value = 0.714323
+SUCCESS		(x =  5) Total visits =  632; p-value = 0.846412
+SUCCESS		(x =  6) Total visits =  717; p-value = 0.593366
+SUCCESS		(x =  7) Total visits =  740; p-value = 0.504330
+SUCCESS		(x =  8) Total visits =  717; p-value = 0.647485
+SUCCESS		(x =  9) Total visits =  700; p-value = 0.752436
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 4442
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 4547; p-value = 0.787018
+SUCCESS		(x = -8) Total visits = 4691; p-value = 0.495174
+SUCCESS		(x = -7) Total visits = 4681; p-value = 0.481888
+SUCCESS		(x = -6) Total visits = 4694; p-value = 0.420173
+SUCCESS		(x = -5) Total visits = 4614; p-value = 0.543002
+SUCCESS		(x = -4) Total visits = 4490; p-value = 0.847365
+SUCCESS		(x = -3) Total visits = 4394; p-value = 0.819843
+SUCCESS		(x = -2) Total visits = 4362; p-value = 0.624111
+SUCCESS		(x = -1) Total visits = 4331; p-value = 0.238933
+FAILURE		(x =  1) Total visits = 4692; p-value = 0.007993
+SUCCESS		(x =  2) Total visits = 4786; p-value = 0.035105
+SUCCESS		(x =  3) Total visits = 4725; p-value = 0.179351
+SUCCESS		(x =  4) Total visits = 4546; p-value = 0.676648
+SUCCESS		(x =  5) Total visits = 4417; p-value = 0.929549
+SUCCESS		(x =  6) Total visits = 4304; p-value = 0.658889
+SUCCESS		(x =  7) Total visits = 4189; p-value = 0.456595
+SUCCESS		(x =  8) Total visits = 4221; p-value = 0.544913
+SUCCESS		(x =  9) Total visits = 4277; p-value = 0.671146
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 465
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1108
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1406; p-value = 0.124698
+SUCCESS		(x = -8) Total visits = 1380; p-value = 0.135727
+SUCCESS		(x = -7) Total visits = 1400; p-value = 0.085362
+SUCCESS		(x = -6) Total visits = 1453; p-value = 0.027124
+SUCCESS		(x = -5) Total visits = 1418; p-value = 0.028156
+SUCCESS		(x = -4) Total visits = 1276; p-value = 0.177373
+SUCCESS		(x = -3) Total visits = 1227; p-value = 0.258258
+SUCCESS		(x = -2) Total visits = 1202; p-value = 0.248962
+SUCCESS		(x = -1) Total visits = 1137; p-value = 0.537864
+SUCCESS		(x =  1) Total visits = 1118; p-value = 0.831772
+SUCCESS		(x =  2) Total visits = 1152; p-value = 0.589443
+SUCCESS		(x =  3) Total visits = 1161; p-value = 0.614607
+SUCCESS		(x =  4) Total visits = 1144; p-value = 0.772545
+SUCCESS		(x =  5) Total visits = 1101; p-value = 0.960468
+SUCCESS		(x =  6) Total visits = 1087; p-value = 0.893003
+SUCCESS		(x =  7) Total visits = 1069; p-value = 0.818264
+SUCCESS		(x =  8) Total visits = 1042; p-value = 0.717349
+SUCCESS		(x =  9) Total visits = 1088; p-value = 0.917928
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 376
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 897
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  892; p-value = 0.977159
+SUCCESS		(x = -8) Total visits =  895; p-value = 0.990272
+SUCCESS		(x = -7) Total visits =  943; p-value = 0.763251
+SUCCESS		(x = -6) Total visits = 1016; p-value = 0.396934
+SUCCESS		(x = -5) Total visits = 1033; p-value = 0.284483
+SUCCESS		(x = -4) Total visits = 1000; p-value = 0.358028
+SUCCESS		(x = -3) Total visits =  938; p-value = 0.665087
+SUCCESS		(x = -2) Total visits =  855; p-value = 0.566982
+SUCCESS		(x = -1) Total visits =  860; p-value = 0.382360
+SUCCESS		(x =  1) Total visits =  883; p-value = 0.740996
+SUCCESS		(x =  2) Total visits =  880; p-value = 0.816750
+SUCCESS		(x =  3) Total visits =  867; p-value = 0.751429
+SUCCESS		(x =  4) Total visits =  796; p-value = 0.367438
+SUCCESS		(x =  5) Total visits =  741; p-value = 0.219560
+SUCCESS		(x =  6) Total visits =  790; p-value = 0.446247
+SUCCESS		(x =  7) Total visits =  797; p-value = 0.512588
+SUCCESS		(x =  8) Total visits =  742; p-value = 0.344722
+SUCCESS		(x =  9) Total visits =  737; p-value = 0.359569
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 286
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 606
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  606; p-value = 1.000000
+SUCCESS		(x = -8) Total visits =  553; p-value = 0.694262
+SUCCESS		(x = -7) Total visits =  543; p-value = 0.615738
+SUCCESS		(x = -6) Total visits =  538; p-value = 0.555910
+SUCCESS		(x = -5) Total visits =  545; p-value = 0.559180
+SUCCESS		(x = -4) Total visits =  583; p-value = 0.802815
+SUCCESS		(x = -3) Total visits =  615; p-value = 0.907959
+SUCCESS		(x = -2) Total visits =  623; p-value = 0.777999
+SUCCESS		(x = -1) Total visits =  609; p-value = 0.931329
+SUCCESS		(x =  1) Total visits =  632; p-value = 0.455166
+SUCCESS		(x =  2) Total visits =  640; p-value = 0.572853
+SUCCESS		(x =  3) Total visits =  660; p-value = 0.487885
+SUCCESS		(x =  4) Total visits =  653; p-value = 0.609864
+SUCCESS		(x =  5) Total visits =  676; p-value = 0.502710
+SUCCESS		(x =  6) Total visits =  760; p-value = 0.182287
+SUCCESS		(x =  7) Total visits =  803; p-value = 0.116547
+SUCCESS		(x =  8) Total visits =  844; p-value = 0.077540
+SUCCESS		(x =  9) Total visits =  898; p-value = 0.041925
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1375
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1247; p-value = 0.553853
+SUCCESS		(x = -8) Total visits = 1281; p-value = 0.643491
+SUCCESS		(x = -7) Total visits = 1270; p-value = 0.578669
+SUCCESS		(x = -6) Total visits = 1275; p-value = 0.565319
+SUCCESS		(x = -5) Total visits = 1309; p-value = 0.674834
+SUCCESS		(x = -4) Total visits = 1297; p-value = 0.573990
+SUCCESS		(x = -3) Total visits = 1324; p-value = 0.663614
+SUCCESS		(x = -2) Total visits = 1316; p-value = 0.515971
+SUCCESS		(x = -1) Total visits = 1316; p-value = 0.260553
+SUCCESS		(x =  1) Total visits = 1495; p-value = 0.022119
+SUCCESS		(x =  2) Total visits = 1581; p-value = 0.023330
+SUCCESS		(x =  3) Total visits = 1646; p-value = 0.020828
+FAILURE		(x =  4) Total visits = 1751; p-value = 0.006728
+SUCCESS		(x =  5) Total visits = 1778; p-value = 0.010418
+SUCCESS		(x =  6) Total visits = 1704; p-value = 0.058542
+SUCCESS		(x =  7) Total visits = 1691; p-value = 0.094667
+SUCCESS		(x =  8) Total visits = 1776; p-value = 0.048338
+SUCCESS		(x =  9) Total visits = 1842; p-value = 0.030783
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 724
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  663; p-value = 0.697428
+SUCCESS		(x = -8) Total visits =  676; p-value = 0.744655
+SUCCESS		(x = -7) Total visits =  683; p-value = 0.765068
+SUCCESS		(x = -6) Total visits =  700; p-value = 0.849180
+SUCCESS		(x = -5) Total visits =  714; p-value = 0.930196
+SUCCESS		(x = -4) Total visits =  670; p-value = 0.591706
+SUCCESS		(x = -3) Total visits =  620; p-value = 0.221609
+SUCCESS		(x = -2) Total visits =  613; p-value = 0.092155
+SUCCESS		(x = -1) Total visits =  656; p-value = 0.073937
+SUCCESS		(x =  1) Total visits =  747; p-value = 0.545560
+SUCCESS		(x =  2) Total visits =  721; p-value = 0.963695
+SUCCESS		(x =  3) Total visits =  696; p-value = 0.742103
+SUCCESS		(x =  4) Total visits =  662; p-value = 0.538009
+SUCCESS		(x =  5) Total visits =  651; p-value = 0.522520
+SUCCESS		(x =  6) Total visits =  637; p-value = 0.490604
+SUCCESS		(x =  7) Total visits =  591; p-value = 0.332354
+SUCCESS		(x =  8) Total visits =  561; p-value = 0.268724
+SUCCESS		(x =  9) Total visits =  539; p-value = 0.238345
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1543
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1876; p-value = 0.145986
+SUCCESS		(x = -8) Total visits = 1912; p-value = 0.086332
+SUCCESS		(x = -7) Total visits = 1868; p-value = 0.104673
+SUCCESS		(x = -6) Total visits = 1754; p-value = 0.252119
+SUCCESS		(x = -5) Total visits = 1713; p-value = 0.307696
+SUCCESS		(x = -4) Total visits = 1725; p-value = 0.215606
+SUCCESS		(x = -3) Total visits = 1673; p-value = 0.295307
+SUCCESS		(x = -2) Total visits = 1580; p-value = 0.700577
+SUCCESS		(x = -1) Total visits = 1536; p-value = 0.899725
+SUCCESS		(x =  1) Total visits = 1561; p-value = 0.745921
+SUCCESS		(x =  2) Total visits = 1563; p-value = 0.835338
+SUCCESS		(x =  3) Total visits = 1606; p-value = 0.612032
+SUCCESS		(x =  4) Total visits = 1670; p-value = 0.387541
+SUCCESS		(x =  5) Total visits = 1748; p-value = 0.218666
+SUCCESS		(x =  6) Total visits = 1802; p-value = 0.159801
+SUCCESS		(x =  7) Total visits = 1808; p-value = 0.185819
+SUCCESS		(x =  8) Total visits = 1844; p-value = 0.161808
+SUCCESS		(x =  9) Total visits = 1807; p-value = 0.249071
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 4237
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 4174; p-value = 0.868168
+SUCCESS		(x = -8) Total visits = 4091; p-value = 0.682166
+SUCCESS		(x = -7) Total visits = 4013; p-value = 0.499747
+SUCCESS		(x = -6) Total visits = 4099; p-value = 0.651269
+SUCCESS		(x = -5) Total visits = 4203; p-value = 0.902015
+SUCCESS		(x = -4) Total visits = 4237; p-value = 1.000000
+SUCCESS		(x = -3) Total visits = 4288; p-value = 0.804316
+SUCCESS		(x = -2) Total visits = 4366; p-value = 0.418476
+SUCCESS		(x = -1) Total visits = 4295; p-value = 0.528654
+SUCCESS		(x =  1) Total visits = 4237; p-value = 1.000000
+SUCCESS		(x =  2) Total visits = 4377; p-value = 0.379912
+SUCCESS		(x =  3) Total visits = 4720; p-value = 0.018951
+FAILURE		(x =  4) Total visits = 5033; p-value = 0.001082
+FAILURE		(x =  5) Total visits = 5142; p-value = 0.001049
+FAILURE		(x =  6) Total visits = 5086; p-value = 0.005423
+SUCCESS		(x =  7) Total visits = 4907; p-value = 0.043525
+SUCCESS		(x =  8) Total visits = 4784; p-value = 0.124967
+SUCCESS		(x =  9) Total visits = 4766; p-value = 0.163391
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 3570
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 3391; p-value = 0.607404
+SUCCESS		(x = -8) Total visits = 3470; p-value = 0.759935
+SUCCESS		(x = -7) Total visits = 3404; p-value = 0.585848
+SUCCESS		(x = -6) Total visits = 3346; p-value = 0.424124
+SUCCESS		(x = -5) Total visits = 3445; p-value = 0.621938
+SUCCESS		(x = -4) Total visits = 3463; p-value = 0.632213
+SUCCESS		(x = -3) Total visits = 3495; p-value = 0.691410
+SUCCESS		(x = -2) Total visits = 3556; p-value = 0.923793
+SUCCESS		(x = -1) Total visits = 3565; p-value = 0.952815
+SUCCESS		(x =  1) Total visits = 3615; p-value = 0.594343
+SUCCESS		(x =  2) Total visits = 3638; p-value = 0.642203
+SUCCESS		(x =  3) Total visits = 3616; p-value = 0.807651
+SUCCESS		(x =  4) Total visits = 3575; p-value = 0.982157
+SUCCESS		(x =  5) Total visits = 3569; p-value = 0.996852
+SUCCESS		(x =  6) Total visits = 3517; p-value = 0.850001
+SUCCESS		(x =  7) Total visits = 3551; p-value = 0.950273
+SUCCESS		(x =  8) Total visits = 3818; p-value = 0.448568
+SUCCESS		(x =  9) Total visits = 3940; p-value = 0.288232
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1392
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1291; p-value = 0.642461
+SUCCESS		(x = -8) Total visits = 1276; p-value = 0.570275
+SUCCESS		(x = -7) Total visits = 1236; p-value = 0.412211
+SUCCESS		(x = -6) Total visits = 1288; p-value = 0.552315
+SUCCESS		(x = -5) Total visits = 1401; p-value = 0.954659
+SUCCESS		(x = -4) Total visits = 1432; p-value = 0.774469
+SUCCESS		(x = -3) Total visits = 1424; p-value = 0.786218
+SUCCESS		(x = -2) Total visits = 1410; p-value = 0.843859
+SUCCESS		(x = -1) Total visits = 1390; p-value = 0.969764
+SUCCESS		(x =  1) Total visits = 1368; p-value = 0.649211
+SUCCESS		(x =  2) Total visits = 1333; p-value = 0.518545
+SUCCESS		(x =  3) Total visits = 1324; p-value = 0.564376
+SUCCESS		(x =  4) Total visits = 1270; p-value = 0.382157
+SUCCESS		(x =  5) Total visits = 1166; p-value = 0.153363
+SUCCESS		(x =  6) Total visits = 1144; p-value = 0.156434
+SUCCESS		(x =  7) Total visits = 1165; p-value = 0.232784
+SUCCESS		(x =  8) Total visits = 1206; p-value = 0.362722
+SUCCESS		(x =  9) Total visits = 1146; p-value = 0.258150
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 84
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1719
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1606; p-value = 0.640204
+SUCCESS		(x = -8) Total visits = 1682; p-value = 0.870573
+SUCCESS		(x = -7) Total visits = 1745; p-value = 0.902120
+SUCCESS		(x = -6) Total visits = 1757; p-value = 0.845076
+SUCCESS		(x = -5) Total visits = 1780; p-value = 0.728756
+SUCCESS		(x = -4) Total visits = 1797; p-value = 0.615107
+SUCCESS		(x = -3) Total visits = 1768; p-value = 0.708605
+SUCCESS		(x = -2) Total visits = 1700; p-value = 0.851594
+SUCCESS		(x = -1) Total visits = 1681; p-value = 0.516931
+SUCCESS		(x =  1) Total visits = 1681; p-value = 0.516931
+SUCCESS		(x =  2) Total visits = 1608; p-value = 0.274406
+SUCCESS		(x =  3) Total visits = 1654; p-value = 0.620061
+SUCCESS		(x =  4) Total visits = 1682; p-value = 0.811488
+SUCCESS		(x =  5) Total visits = 1660; p-value = 0.737315
+SUCCESS		(x =  6) Total visits = 1669; p-value = 0.797093
+SUCCESS		(x =  7) Total visits = 1685; p-value = 0.872231
+SUCCESS		(x =  8) Total visits = 1741; p-value = 0.922823
+SUCCESS		(x =  9) Total visits = 1783; p-value = 0.791218
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 625
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  694; p-value = 0.635973
+SUCCESS		(x = -8) Total visits =  676; p-value = 0.709557
+SUCCESS		(x = -7) Total visits =  689; p-value = 0.615627
+SUCCESS		(x = -6) Total visits =  687; p-value = 0.596987
+SUCCESS		(x = -5) Total visits =  690; p-value = 0.539991
+SUCCESS		(x = -4) Total visits =  679; p-value = 0.563747
+SUCCESS		(x = -3) Total visits =  624; p-value = 0.989908
+SUCCESS		(x = -2) Total visits =  610; p-value = 0.806496
+SUCCESS		(x = -1) Total visits =  613; p-value = 0.734300
+SUCCESS		(x =  1) Total visits =  655; p-value = 0.396144
+SUCCESS		(x =  2) Total visits =  758; p-value = 0.029865
+SUCCESS		(x =  3) Total visits =  810; p-value = 0.019279
+SUCCESS		(x =  4) Total visits =  776; p-value = 0.106471
+SUCCESS		(x =  5) Total visits =  778; p-value = 0.149162
+SUCCESS		(x =  6) Total visits =  770; p-value = 0.216249
+SUCCESS		(x =  7) Total visits =  747; p-value = 0.338544
+SUCCESS		(x =  8) Total visits =  751; p-value = 0.357482
+SUCCESS		(x =  9) Total visits =  793; p-value = 0.249128
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 353
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 464
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 5848
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 5994; p-value = 0.743348
+SUCCESS		(x = -8) Total visits = 6092; p-value = 0.560203
+SUCCESS		(x = -7) Total visits = 6183; p-value = 0.390274
+SUCCESS		(x = -6) Total visits = 6241; p-value = 0.273226
+SUCCESS		(x = -5) Total visits = 6269; p-value = 0.194423
+SUCCESS		(x = -4) Total visits = 6162; p-value = 0.272470
+SUCCESS		(x = -3) Total visits = 6051; p-value = 0.401220
+SUCCESS		(x = -2) Total visits = 5961; p-value = 0.546341
+SUCCESS		(x = -1) Total visits = 5831; p-value = 0.875094
+SUCCESS		(x =  1) Total visits = 5980; p-value = 0.222257
+SUCCESS		(x =  2) Total visits = 5979; p-value = 0.484336
+SUCCESS		(x =  3) Total visits = 5992; p-value = 0.551530
+SUCCESS		(x =  4) Total visits = 6136; p-value = 0.314163
+SUCCESS		(x =  5) Total visits = 6277; p-value = 0.186081
+SUCCESS		(x =  6) Total visits = 6233; p-value = 0.283109
+SUCCESS		(x =  7) Total visits = 6052; p-value = 0.600858
+SUCCESS		(x =  8) Total visits = 5999; p-value = 0.718469
+SUCCESS		(x =  9) Total visits = 6018; p-value = 0.703020
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 547
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  484; p-value = 0.644108
+SUCCESS		(x = -8) Total visits =  497; p-value = 0.696303
+SUCCESS		(x = -7) Total visits =  530; p-value = 0.886645
+SUCCESS		(x = -6) Total visits =  549; p-value = 0.985454
+SUCCESS		(x = -5) Total visits =  586; p-value = 0.694291
+SUCCESS		(x = -4) Total visits =  636; p-value = 0.309141
+SUCCESS		(x = -3) Total visits =  641; p-value = 0.203740
+SUCCESS		(x = -2) Total visits =  580; p-value = 0.564595
+SUCCESS		(x = -1) Total visits =  528; p-value = 0.565670
+SUCCESS		(x =  1) Total visits =  601; p-value = 0.102549
+SUCCESS		(x =  2) Total visits =  650; p-value = 0.072191
+SUCCESS		(x =  3) Total visits =  680; p-value = 0.072132
+SUCCESS		(x =  4) Total visits =  668; p-value = 0.166757
+SUCCESS		(x =  5) Total visits =  661; p-value = 0.250605
+SUCCESS		(x =  6) Total visits =  664; p-value = 0.286175
+SUCCESS		(x =  7) Total visits =  617; p-value = 0.557222
+SUCCESS		(x =  8) Total visits =  546; p-value = 0.993772
+SUCCESS		(x =  9) Total visits =  485; p-value = 0.649375
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 2138
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 2071; p-value = 0.803745
+SUCCESS		(x = -8) Total visits = 2091; p-value = 0.852773
+SUCCESS		(x = -7) Total visits = 2120; p-value = 0.939144
+SUCCESS		(x = -6) Total visits = 2206; p-value = 0.753870
+SUCCESS		(x = -5) Total visits = 2178; p-value = 0.838431
+SUCCESS		(x = -4) Total visits = 2126; p-value = 0.944703
+SUCCESS		(x = -3) Total visits = 2166; p-value = 0.848139
+SUCCESS		(x = -2) Total visits = 2203; p-value = 0.566038
+SUCCESS		(x = -1) Total visits = 2165; p-value = 0.679680
+SUCCESS		(x =  1) Total visits = 2172; p-value = 0.603100
+SUCCESS		(x =  2) Total visits = 2116; p-value = 0.845986
+SUCCESS		(x =  3) Total visits = 2008; p-value = 0.373962
+SUCCESS		(x =  4) Total visits = 1965; p-value = 0.317335
+SUCCESS		(x =  5) Total visits = 1969; p-value = 0.388972
+SUCCESS		(x =  6) Total visits = 1973; p-value = 0.446778
+SUCCESS		(x =  7) Total visits = 1923; p-value = 0.361821
+SUCCESS		(x =  8) Total visits = 1921; p-value = 0.391538
+SUCCESS		(x =  9) Total visits = 1964; p-value = 0.518690
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1424
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1373; p-value = 0.816709
+SUCCESS		(x = -8) Total visits = 1231; p-value = 0.350421
+SUCCESS		(x = -7) Total visits = 1161; p-value = 0.171679
+SUCCESS		(x = -6) Total visits = 1166; p-value = 0.144937
+SUCCESS		(x = -5) Total visits = 1211; p-value = 0.183380
+SUCCESS		(x = -4) Total visits = 1261; p-value = 0.248323
+SUCCESS		(x = -3) Total visits = 1277; p-value = 0.218000
+SUCCESS		(x = -2) Total visits = 1298; p-value = 0.172839
+SUCCESS		(x = -1) Total visits = 1390; p-value = 0.524058
+SUCCESS		(x =  1) Total visits = 1337; p-value = 0.103053
+SUCCESS		(x =  2) Total visits = 1303; p-value = 0.190519
+SUCCESS		(x =  3) Total visits = 1346; p-value = 0.513343
+SUCCESS		(x =  4) Total visits = 1359; p-value = 0.645260
+SUCCESS		(x =  5) Total visits = 1333; p-value = 0.569767
+SUCCESS		(x =  6) Total visits = 1273; p-value = 0.393592
+SUCCESS		(x =  7) Total visits = 1287; p-value = 0.476466
+SUCCESS		(x =  8) Total visits = 1353; p-value = 0.731213
+SUCCESS		(x =  9) Total visits = 1369; p-value = 0.802619
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 876
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  887; p-value = 0.949179
+SUCCESS		(x = -8) Total visits =  846; p-value = 0.853183
+SUCCESS		(x = -7) Total visits =  740; p-value = 0.367505
+SUCCESS		(x = -6) Total visits =  648; p-value = 0.100513
+SUCCESS		(x = -5) Total visits =  659; p-value = 0.083968
+SUCCESS		(x = -4) Total visits =  717; p-value = 0.151071
+SUCCESS		(x = -3) Total visits =  771; p-value = 0.261924
+SUCCESS		(x = -2) Total visits =  782; p-value = 0.194775
+SUCCESS		(x = -1) Total visits =  792; p-value = 0.044767
+SUCCESS		(x =  1) Total visits =  950; p-value = 0.077073
+SUCCESS		(x =  2) Total visits =  941; p-value = 0.369947
+SUCCESS		(x =  3) Total visits =  878; p-value = 0.982952
+SUCCESS		(x =  4) Total visits =  806; p-value = 0.527325
+SUCCESS		(x =  5) Total visits =  741; p-value = 0.282334
+SUCCESS		(x =  6) Total visits =  685; p-value = 0.168869
+SUCCESS		(x =  7) Total visits =  659; p-value = 0.150470
+SUCCESS		(x =  8) Total visits =  674; p-value = 0.212743
+SUCCESS		(x =  9) Total visits =  686; p-value = 0.270924
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 152
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1954
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1605; p-value = 0.175731
+SUCCESS		(x = -8) Total visits = 1590; p-value = 0.132732
+SUCCESS		(x = -7) Total visits = 1634; p-value = 0.155691
+SUCCESS		(x = -6) Total visits = 1686; p-value = 0.196153
+SUCCESS		(x = -5) Total visits = 1708; p-value = 0.189619
+SUCCESS		(x = -4) Total visits = 1704; p-value = 0.130656
+SUCCESS		(x = -3) Total visits = 1755; p-value = 0.154560
+SUCCESS		(x = -2) Total visits = 1804; p-value = 0.165951
+SUCCESS		(x = -1) Total visits = 1847; p-value = 0.086967
+SUCCESS		(x =  1) Total visits = 2023; p-value = 0.269700
+SUCCESS		(x =  2) Total visits = 2086; p-value = 0.222810
+SUCCESS		(x =  3) Total visits = 2185; p-value = 0.098426
+SUCCESS		(x =  4) Total visits = 2179; p-value = 0.173714
+SUCCESS		(x =  5) Total visits = 2111; p-value = 0.402511
+SUCCESS		(x =  6) Total visits = 2099; p-value = 0.484334
+SUCCESS		(x =  7) Total visits = 2168; p-value = 0.342400
+SUCCESS		(x =  8) Total visits = 2210; p-value = 0.290354
+SUCCESS		(x =  9) Total visits = 2201; p-value = 0.337918
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1603
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1543; p-value = 0.797173
+SUCCESS		(x = -8) Total visits = 1518; p-value = 0.698307
+SUCCESS		(x = -7) Total visits = 1574; p-value = 0.887040
+SUCCESS		(x = -6) Total visits = 1657; p-value = 0.773690
+SUCCESS		(x = -5) Total visits = 1623; p-value = 0.906273
+SUCCESS		(x = -4) Total visits = 1585; p-value = 0.904360
+SUCCESS		(x = -3) Total visits = 1585; p-value = 0.886946
+SUCCESS		(x = -2) Total visits = 1595; p-value = 0.934986
+SUCCESS		(x = -1) Total visits = 1622; p-value = 0.737202
+SUCCESS		(x =  1) Total visits = 1594; p-value = 0.873708
+SUCCESS		(x =  2) Total visits = 1617; p-value = 0.886485
+SUCCESS		(x =  3) Total visits = 1621; p-value = 0.886946
+SUCCESS		(x =  4) Total visits = 1636; p-value = 0.825650
+SUCCESS		(x =  5) Total visits = 1632; p-value = 0.864441
+SUCCESS		(x =  6) Total visits = 1711; p-value = 0.565222
+SUCCESS		(x =  7) Total visits = 1785; p-value = 0.372665
+SUCCESS		(x =  8) Total visits = 1830; p-value = 0.300604
+SUCCESS		(x =  9) Total visits = 1869; p-value = 0.254537
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1542
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1314; p-value = 0.319368
+SUCCESS		(x = -8) Total visits = 1264; p-value = 0.196172
+SUCCESS		(x = -7) Total visits = 1217; p-value = 0.104561
+SUCCESS		(x = -6) Total visits = 1270; p-value = 0.139735
+SUCCESS		(x = -5) Total visits = 1422; p-value = 0.471351
+SUCCESS		(x = -4) Total visits = 1501; p-value = 0.780209
+SUCCESS		(x = -3) Total visits = 1520; p-value = 0.859378
+SUCCESS		(x = -2) Total visits = 1525; p-value = 0.859714
+SUCCESS		(x = -1) Total visits = 1536; p-value = 0.913962
+SUCCESS		(x =  1) Total visits = 1541; p-value = 0.985633
+SUCCESS		(x =  2) Total visits = 1542; p-value = 1.000000
+SUCCESS		(x =  3) Total visits = 1519; p-value = 0.853057
+SUCCESS		(x =  4) Total visits = 1471; p-value = 0.628934
+SUCCESS		(x =  5) Total visits = 1497; p-value = 0.787079
+SUCCESS		(x =  6) Total visits = 1581; p-value = 0.832307
+SUCCESS		(x =  7) Total visits = 1639; p-value = 0.628071
+SUCCESS		(x =  8) Total visits = 1669; p-value = 0.554873
+SUCCESS		(x =  9) Total visits = 1651; p-value = 0.634045
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1482
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1751; p-value = 0.230775
+SUCCESS		(x = -8) Total visits = 1631; p-value = 0.479787
+SUCCESS		(x = -7) Total visits = 1551; p-value = 0.725205
+SUCCESS		(x = -6) Total visits = 1465; p-value = 0.924991
+SUCCESS		(x = -5) Total visits = 1417; p-value = 0.690650
+SUCCESS		(x = -4) Total visits = 1436; p-value = 0.749460
+SUCCESS		(x = -3) Total visits = 1497; p-value = 0.901936
+SUCCESS		(x = -2) Total visits = 1545; p-value = 0.504070
+SUCCESS		(x = -1) Total visits = 1487; p-value = 0.926825
+SUCCESS		(x =  1) Total visits = 1573; p-value = 0.094626
+SUCCESS		(x =  2) Total visits = 1666; p-value = 0.051025
+SUCCESS		(x =  3) Total visits = 1683; p-value = 0.098719
+SUCCESS		(x =  4) Total visits = 1684; p-value = 0.160804
+SUCCESS		(x =  5) Total visits = 1684; p-value = 0.216170
+SUCCESS		(x =  6) Total visits = 1713; p-value = 0.200787
+SUCCESS		(x =  7) Total visits = 1704; p-value = 0.258077
+SUCCESS		(x =  8) Total visits = 1685; p-value = 0.335675
+SUCCESS		(x =  9) Total visits = 1717; p-value = 0.295147
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1418
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1235; p-value = 0.404598
+SUCCESS		(x = -8) Total visits = 1182; p-value = 0.252528
+SUCCESS		(x = -7) Total visits = 1131; p-value = 0.134990
+SUCCESS		(x = -6) Total visits = 1138; p-value = 0.112901
+SUCCESS		(x = -5) Total visits = 1170; p-value = 0.120589
+SUCCESS		(x = -4) Total visits = 1270; p-value = 0.293529
+SUCCESS		(x = -3) Total visits = 1356; p-value = 0.602604
+SUCCESS		(x = -2) Total visits = 1429; p-value = 0.905073
+SUCCESS		(x = -1) Total visits = 1458; p-value = 0.452583
+SUCCESS		(x =  1) Total visits = 1392; p-value = 0.625390
+SUCCESS		(x =  2) Total visits = 1349; p-value = 0.454425
+SUCCESS		(x =  3) Total visits = 1316; p-value = 0.391683
+SUCCESS		(x =  4) Total visits = 1374; p-value = 0.754824
+SUCCESS		(x =  5) Total visits = 1403; p-value = 0.925197
+SUCCESS		(x =  6) Total visits = 1446; p-value = 0.874040
+SUCCESS		(x =  7) Total visits = 1482; p-value = 0.738896
+SUCCESS		(x =  8) Total visits = 1415; p-value = 0.988395
+SUCCESS		(x =  9) Total visits = 1353; p-value = 0.767207
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 961
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  640; p-value = 0.075759
+SUCCESS		(x = -8) Total visits =  662; p-value = 0.078246
+SUCCESS		(x = -7) Total visits =  680; p-value = 0.075453
+SUCCESS		(x = -6) Total visits =  688; p-value = 0.060444
+SUCCESS		(x = -5) Total visits =  712; p-value = 0.058328
+SUCCESS		(x = -4) Total visits =  762; p-value = 0.086227
+SUCCESS		(x = -3) Total visits =  822; p-value = 0.156213
+SUCCESS		(x = -2) Total visits =  859; p-value = 0.179185
+SUCCESS		(x = -1) Total visits =  916; p-value = 0.304682
+SUCCESS		(x =  1) Total visits = 1004; p-value = 0.326679
+SUCCESS		(x =  2) Total visits = 1102; p-value = 0.063329
+SUCCESS		(x =  3) Total visits = 1167; p-value = 0.035607
+SUCCESS		(x =  4) Total visits = 1144; p-value = 0.114634
+SUCCESS		(x =  5) Total visits = 1127; p-value = 0.206896
+SUCCESS		(x =  6) Total visits = 1125; p-value = 0.259362
+SUCCESS		(x =  7) Total visits = 1139; p-value = 0.260129
+SUCCESS		(x =  8) Total visits = 1170; p-value = 0.218359
+SUCCESS		(x =  9) Total visits = 1184; p-value = 0.217321
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1131
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  860; p-value = 0.166981
+SUCCESS		(x = -8) Total visits =  833; p-value = 0.105706
+SUCCESS		(x = -7) Total visits =  825; p-value = 0.074351
+SUCCESS		(x = -6) Total visits =  837; p-value = 0.062347
+SUCCESS		(x = -5) Total visits =  865; p-value = 0.062281
+SUCCESS		(x = -4) Total visits =  991; p-value = 0.265887
+SUCCESS		(x = -3) Total visits = 1098; p-value = 0.756332
+SUCCESS		(x = -2) Total visits = 1081; p-value = 0.543875
+SUCCESS		(x = -1) Total visits = 1061; p-value = 0.141072
+SUCCESS		(x =  1) Total visits = 1173; p-value = 0.377190
+SUCCESS		(x =  2) Total visits = 1104; p-value = 0.743093
+SUCCESS		(x =  3) Total visits = 1133; p-value = 0.984996
+SUCCESS		(x =  4) Total visits = 1176; p-value = 0.720631
+SUCCESS		(x =  5) Total visits = 1164; p-value = 0.817094
+SUCCESS		(x =  6) Total visits = 1143; p-value = 0.939360
+SUCCESS		(x =  7) Total visits = 1119; p-value = 0.944211
+SUCCESS		(x =  8) Total visits = 1082; p-value = 0.790229
+SUCCESS		(x =  9) Total visits = 1018; p-value = 0.564449
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 472
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1556
+		(b) Sequence Length (n)  = 10000000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1767; p-value = 0.358956
+SUCCESS		(x = -8) Total visits = 1706; p-value = 0.487515
+SUCCESS		(x = -7) Total visits = 1668; p-value = 0.577640
+SUCCESS		(x = -6) Total visits = 1622; p-value = 0.721301
+SUCCESS		(x = -5) Total visits = 1546; p-value = 0.952352
+SUCCESS		(x = -4) Total visits = 1501; p-value = 0.709414
+SUCCESS		(x = -3) Total visits = 1547; p-value = 0.942482
+SUCCESS		(x = -2) Total visits = 1589; p-value = 0.732702
+SUCCESS		(x = -1) Total visits = 1548; p-value = 0.885969
+SUCCESS		(x =  1) Total visits = 1608; p-value = 0.351262
+SUCCESS		(x =  2) Total visits = 1641; p-value = 0.379018
+SUCCESS		(x =  3) Total visits = 1689; p-value = 0.286324
+SUCCESS		(x =  4) Total visits = 1730; p-value = 0.238434
+SUCCESS		(x =  5) Total visits = 1704; p-value = 0.376511
+SUCCESS		(x =  6) Total visits = 1748; p-value = 0.299395
+SUCCESS		(x =  7) Total visits = 1833; p-value = 0.168459
+SUCCESS		(x =  8) Total visits = 1814; p-value = 0.232424
+SUCCESS		(x =  9) Total visits = 1815; p-value = 0.260147
+
