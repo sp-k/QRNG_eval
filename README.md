@@ -1,3 +1,5 @@
+# QRNG_eval
+
 `QRNG.py` generates data with different values of $\mu Td$.
 `Stat_test` contains results of NIST, Dieharder, AIS-31 and ENT tests for the above data.
 `Plot.ipynb` generates the required plots.
