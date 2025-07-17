@@ -1,4 +1,14 @@
+'''Performs two-fold method'''
+
 def two_fold_test(data, eps):
+	'''Two-fold Method
+	Arguments:
+		data [list]: A sample dataset generated from some distribution
+		eps [float]: significant level for the GoF test
+	returns:
+		[int] 0/1/2 for sub-/Poissonian/super-Poissonian distribution
+		-1 in case of Poissonain but not Poisson
+	'''
 	n = len(data)
 	
 	# Apply step I: Interval estimation
@@ -71,12 +81,11 @@ def two_fold_test(data, eps):
 	
 	if p_value < eps:
 		return -1
-	else:
-		return 1
+	return 1
 
 
 from pickle import load, dump
-filename = 'datafile_2fold_2'
+filename = 'datafile_2fold_3'
 with open(filename, 'rb') as datafile:
 	dataset = load(datafile)
 
