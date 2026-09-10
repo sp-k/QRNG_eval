@@ -8,7 +8,7 @@
 
 In `two_fold`:
 
-1. `two_fold_data` generates dataset for two-fold test.
+1. `two_fold_data.py` generates dataset for two-fold test.
 
 2. `two_fold.py`, `dispersion.py`, `comparison.py` perform two-fold method, dispersion method and direct comparison method, respectively and produce results.
 
